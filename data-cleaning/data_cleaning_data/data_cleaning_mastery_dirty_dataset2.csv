@@ -1,0 +1,501 @@
+customer_id,customer_name,age,gender,country,email,product,quantity,price,payment_method,order_date,delivery_date
+1,,25,male,Nigeria,USER1@EMAIL.COM,Keyboard,1,-100,Card,15/01/2026,10/01/2026
+2,,22,,U.S.A,,Keyboard,2,500,cash,15/01/2026,20/01/2026
+3, john doe 3 ,40,F,USA,user3email.com,Laptop,1,120,Transfer,yesterday,invalid-date
+3,,25,male,US,user4@email.com,Laptop,0,,cash,,invalid-date
+5,John Doe 5,40,Female,ng,USER5@EMAIL.COM,Laptop,0,500,Transfer,15/01/2026,20/01/2026
+6,JOHN DOE 6,40,male,Nigeria,user6email.com,,9999,,CARD,15/01/2026,invalid-date
+7,JOHN DOE 7,,Male,U.S.A,user7email.com,,5,120,Card,yesterday,
+8, john doe 8 ,-5,,US,,,-2,-100,Transfer,15/01/2026,10/01/2026
+8,,30,,United States,,Phone,10,120,CARD,15/01/2026,invalid-date
+10,,,male,US,USER10@EMAIL.COM,Keyboard,9999,99.99,cash,15/01/2026,20/01/2026
+11,JOHN DOE 11,Twenty Eight,,U.S.A,user11email.com,Keyboard,10,50,Card,15/01/2026,invalid-date
+12, john doe 12 ,40,Male,Nigeria,USER12@EMAIL.COM,Monitor,3,99.99,Transfer,01-15-26,10/01/2026
+13,,22,male,USA,user13@email.com,,2,,Transfer,01-15-26,10/01/2026
+13, john doe 14 ,25,Female,NIGERIA,user14email.com,Monitor,3,120,Transfer,yesterday,10/01/2026
+15,JOHN DOE 15,-5,Male,Nigeria,USER15@EMAIL.COM,Mouse,9999,150 USD,CARD,15/01/2026,10/01/2026
+16,JOHN DOE 16,35,male,Nigeria,user16@email.com,Phone,1,99.99,Cash,15/01/2026,10/01/2026
+16,,Twenty Eight,Female,USA,USER17@EMAIL.COM,Laptop,5,120,,,
+18,John Doe 18,250,,NIGERIA,user18@email.com,Monitor,0,$200,,yesterday,
+18, john doe 19 ,25,female,US,USER19@EMAIL.COM,Phone,5,500,,15/01/2026,
+20, john doe 20 ,25,,US,user20@email.com,Keyboard,9999,99.99,CARD,15/01/2026,20/01/2026
+21,,250,female,US,,,1,120,,yesterday,20/01/2026
+22,,,Male,NIGERIA,USER22@EMAIL.COM,Monitor,9999,120,Card,15/01/2026,invalid-date
+23,,22,male,NIGERIA,USER23@EMAIL.COM,,9999,120,CARD,15/01/2026,20/01/2026
+24,,250,F,United States,,Phone,2,500,,,20/01/2026
+24,JOHN DOE 25,-5,male,USA,user25email.com,Keyboard,5,-100,cash,yesterday,10/01/2026
+26,John Doe 26,25,Female,United States,USER26@EMAIL.COM,Monitor,2,500,CARD,,invalid-date
+27,JOHN DOE 27,Twenty Eight,male,USA,user27@email.com,,10,50,cash,,invalid-date
+28,JOHN DOE 28,30,,United States,user28email.com,,10,-100,Card,,10/01/2026
+29,JOHN DOE 29,25,M,NIGERIA,user29email.com,Keyboard,-2,-100,cash,15/01/2026,20/01/2026
+30,JOHN DOE 30,250,M,US,,Phone,1,99.99,Card,15/01/2026,10/01/2026
+31,JOHN DOE 31,40,,Nigeria,USER31@EMAIL.COM,,0,50,CARD,01-15-26,10/01/2026
+32,,35,Female,United States,USER32@EMAIL.COM,Phone,3,120,,yesterday,20/01/2026
+32,JOHN DOE 33,25,female,ng,USER33@EMAIL.COM,,-2,50,,yesterday,10/01/2026
+34,John Doe 34,35,female,United States,user34email.com,,5,50,cash,15/01/2026,
+35,John Doe 35,250,male,Nigeria,USER35@EMAIL.COM,Keyboard,0,50,Cash,15/01/2026,invalid-date
+36,,-5,Male,Nigeria,user36email.com,,-2,99.99,cash,yesterday,10/01/2026
+37,John Doe 37,35,female,Nigeria,,Monitor,0,$200,,15/01/2026,invalid-date
+37,,250,M,Nigeria,USER38@EMAIL.COM,Mouse,0,$200,Cash,01-15-26,10/01/2026
+39,,250,,US,,,1,-100,CARD,01-15-26,10/01/2026
+40,John Doe 40,,Female,NIGERIA,,Monitor,9999,120,CARD,15/01/2026,invalid-date
+41,,35,,NIGERIA,,Mouse,3,50,CARD,15/01/2026,10/01/2026
+42,,250,Female,U.S.A,user42@email.com,,9999,$200,,15/01/2026,10/01/2026
+42, john doe 43 ,,,NIGERIA,user43@email.com,Mouse,9999,50,cash,,10/01/2026
+43,,-5,female,ng,USER44@EMAIL.COM,Phone,9999,$200,,,
+45, john doe 45 ,40,female,United States,user45@email.com,Monitor,9999,500,cash,01-15-26,
+46,John Doe 46,25,,US,USER46@EMAIL.COM,Monitor,3,120,cash,15/01/2026,
+47,,Twenty Eight,,US,,Laptop,-2,50,Cash,15/01/2026,
+48,JOHN DOE 48,40,,US,,Laptop,-2,$200,Transfer,,10/01/2026
+49,,-5,Male,USA,,,-2,120,Transfer,yesterday,10/01/2026
+50, john doe 50 ,30,,United States,,Monitor,9999,120,,15/01/2026,invalid-date
+51,,250,Male,United States,,Phone,10,$200,,01-15-26,20/01/2026
+52, john doe 52 ,25,M,US,user52@email.com,,1,50,Card,15/01/2026,10/01/2026
+53, john doe 53 ,35,female,USA,,Mouse,9999,-100,Card,01-15-26,10/01/2026
+54,John Doe 54,40,female,ng,,,-2,$200,cash,15/01/2026,20/01/2026
+55,,25,F,USA,user55email.com,,1,,Transfer,,
+55, john doe 56 ,Twenty Eight,female,Nigeria,USER56@EMAIL.COM,,2,$200,cash,01-15-26,
+57,John Doe 57,Twenty Eight,female,US,user57email.com,Phone,9999,$200,,,invalid-date
+58,,Twenty Eight,Female,United States,user58email.com,,-2,,Cash,15/01/2026,
+59,John Doe 59,-5,Female,NIGERIA,,Keyboard,10,-100,Transfer,,20/01/2026
+60,JOHN DOE 60,,Female,US,user60@email.com,,5,150 USD,CARD,yesterday,
+61,JOHN DOE 61,40,,United States,,Monitor,0,150 USD,Cash,,invalid-date
+62, john doe 62 ,35,Female,NIGERIA,,Keyboard,2,500,Cash,01-15-26,20/01/2026
+63, john doe 63 ,,female,USA,USER63@EMAIL.COM,,10,99.99,cash,15/01/2026,invalid-date
+63,John Doe 64,30,Male,Nigeria,USER64@EMAIL.COM,Monitor,10,50,Transfer,15/01/2026,invalid-date
+64,John Doe 65,Twenty Eight,male,US,user65email.com,Keyboard,9999,,Card,15/01/2026,20/01/2026
+66,John Doe 66,22,,Nigeria,user66@email.com,Mouse,3,120,,,invalid-date
+66,JOHN DOE 67,35,Male,Nigeria,,,-2,150 USD,Card,yesterday,invalid-date
+68,,35,male,U.S.A,USER68@EMAIL.COM,Laptop,5,-100,Transfer,15/01/2026,10/01/2026
+69,,Twenty Eight,male,NIGERIA,user69email.com,Phone,9999,-100,Cash,15/01/2026,10/01/2026
+70, john doe 70 ,35,male,USA,USER70@EMAIL.COM,Phone,-2,99.99,,,10/01/2026
+70,JOHN DOE 71,40,,US,user71email.com,Laptop,10,150 USD,cash,15/01/2026,
+72, john doe 72 ,22,Male,ng,user72@email.com,,-2,,,,invalid-date
+73,,40,,NIGERIA,user73email.com,,1,120,Transfer,yesterday,
+74, john doe 74 ,25,F,US,user74email.com,,9999,,Transfer,yesterday,invalid-date
+75,JOHN DOE 75,40,male,ng,user75email.com,Keyboard,-2,50,,yesterday,20/01/2026
+76,,,,NIGERIA,USER76@EMAIL.COM,Keyboard,1,150 USD,,yesterday,20/01/2026
+76,,22,male,USA,user77email.com,,5,-100,cash,,10/01/2026
+77,John Doe 78,35,Female,ng,,Laptop,3,-100,Transfer,,20/01/2026
+78,,25,Female,US,,Mouse,3,150 USD,CARD,01-15-26,invalid-date
+80,,250,female,ng,,Laptop,5,120,Cash,15/01/2026,invalid-date
+81,,40,,US,user81email.com,Monitor,9999,120,,yesterday,
+82,,35,,US,user82@email.com,,5,$200,,15/01/2026,
+82,John Doe 83,30,,USA,user83@email.com,,9999,50,CARD,15/01/2026,invalid-date
+83,John Doe 84,250,F,ng,user84email.com,,3,99.99,,yesterday,invalid-date
+85, john doe 85 ,,female,U.S.A,,,-2,,Card,yesterday,20/01/2026
+86,John Doe 86,250,F,ng,user86email.com,Laptop,2,99.99,Cash,yesterday,10/01/2026
+86,,-5,M,U.S.A,,Phone,0,$200,Card,15/01/2026,10/01/2026
+87,JOHN DOE 88,250,,United States,USER88@EMAIL.COM,,5,150 USD,Card,,10/01/2026
+89,,Twenty Eight,female,US,user89email.com,,10,120,Cash,15/01/2026,
+90,,35,female,NIGERIA,,Monitor,-2,150 USD,Card,15/01/2026,10/01/2026
+90,JOHN DOE 91,250,Female,Nigeria,,,10,50,Cash,,20/01/2026
+92,,35,Male,Nigeria,user92@email.com,Monitor,5,-100,,15/01/2026,20/01/2026
+93, john doe 93 ,30,F,Nigeria,USER93@EMAIL.COM,Mouse,2,-100,Cash,01-15-26,
+93,John Doe 94,30,M,ng,user94@email.com,Phone,10,150 USD,,01-15-26,invalid-date
+95,,250,F,NIGERIA,user95email.com,,0,99.99,,yesterday,20/01/2026
+96,,40,F,Nigeria,,Phone,-2,,,15/01/2026,10/01/2026
+97,John Doe 97,25,female,US,USER97@EMAIL.COM,Laptop,9999,-100,Card,yesterday,20/01/2026
+97,,35,M,US,,,3,$200,Card,yesterday,invalid-date
+98,,Twenty Eight,Female,ng,USER99@EMAIL.COM,Monitor,-2,-100,Card,15/01/2026,invalid-date
+100,,-5,male,NIGERIA,USER100@EMAIL.COM,Phone,0,50,,yesterday,invalid-date
+101,John Doe 101,22,Female,Nigeria,,Phone,1,,,15/01/2026,10/01/2026
+102, john doe 102 ,35,female,ng,user102email.com,Phone,0,120,Card,,20/01/2026
+103,John Doe 103,22,M,United States,,Laptop,3,50,CARD,01-15-26,10/01/2026
+104,,250,Female,Nigeria,user104email.com,Laptop,2,99.99,,yesterday,
+104,,,male,US,,,10,150 USD,Transfer,15/01/2026,20/01/2026
+106,JOHN DOE 106,25,F,US,user106@email.com,Mouse,2,,cash,,10/01/2026
+107,,40,,U.S.A,,Keyboard,9999,$200,Cash,15/01/2026,20/01/2026
+108,JOHN DOE 108,Twenty Eight,F,U.S.A,,,-2,$200,Transfer,15/01/2026,invalid-date
+109, john doe 109 ,25,Male,Nigeria,user109@email.com,Mouse,2,99.99,cash,15/01/2026,
+110,,-5,female,United States,user110@email.com,Laptop,2,$200,cash,01-15-26,
+111,,,F,USA,user111@email.com,,5,120,Cash,yesterday,10/01/2026
+112,JOHN DOE 112,35,female,United States,user112@email.com,Monitor,-2,50,Card,,invalid-date
+113,,30,Female,US,user113@email.com,Keyboard,3,$200,Transfer,15/01/2026,10/01/2026
+114,John Doe 114,-5,M,U.S.A,,,3,,cash,01-15-26,invalid-date
+114,,22,female,U.S.A,,,2,-100,cash,yesterday,
+115,,25,female,USA,,Phone,0,$200,Transfer,15/01/2026,invalid-date
+117,JOHN DOE 117,22,F,USA,USER117@EMAIL.COM,Laptop,1,500,Transfer,01-15-26,10/01/2026
+118,John Doe 118,250,,ng,,,3,120,Card,yesterday,10/01/2026
+118,,250,,NIGERIA,,,1,150 USD,Transfer,15/01/2026,invalid-date
+119,JOHN DOE 120,40,male,US,USER120@EMAIL.COM,,2,$200,Card,15/01/2026,invalid-date
+121,JOHN DOE 121,35,Female,United States,,,-2,$200,CARD,,20/01/2026
+122,John Doe 122,25,M,United States,USER122@EMAIL.COM,Phone,2,500,CARD,01-15-26,invalid-date
+122,,30,F,ng,,,2,120,Cash,yesterday,
+124,,30,Male,United States,user124email.com,Mouse,9999,99.99,Card,yesterday,
+125,John Doe 125,40,male,Nigeria,user125email.com,Mouse,9999,150 USD,cash,15/01/2026,20/01/2026
+125,,250,M,USA,user126email.com,Keyboard,9999,50,Card,yesterday,10/01/2026
+126,,-5,M,United States,,Monitor,2,120,Cash,15/01/2026,10/01/2026
+128,JOHN DOE 128,250,male,Nigeria,user128email.com,,-2,,Transfer,,20/01/2026
+129,JOHN DOE 129,40,female,NIGERIA,,,10,120,,01-15-26,20/01/2026
+130,,250,male,NIGERIA,user130email.com,,3,99.99,Transfer,01-15-26,
+131,JOHN DOE 131,,,U.S.A,USER131@EMAIL.COM,Phone,0,50,CARD,01-15-26,invalid-date
+132,,30,,U.S.A,user132email.com,Phone,2,-100,CARD,15/01/2026,20/01/2026
+132,,30,female,ng,USER133@EMAIL.COM,,9999,50,,yesterday,invalid-date
+134,,Twenty Eight,,US,USER134@EMAIL.COM,,5,500,Cash,01-15-26,
+135,,250,F,Nigeria,user135email.com,Laptop,-2,120,,15/01/2026,10/01/2026
+135,,,M,ng,user136email.com,Keyboard,2,-100,Card,15/01/2026,10/01/2026
+136,,35,F,U.S.A,user137@email.com,Keyboard,9999,,Card,15/01/2026,
+138, john doe 138 ,-5,Male,United States,user138email.com,,5,50,Transfer,01-15-26,20/01/2026
+139,JOHN DOE 139,30,Female,ng,user139@email.com,Phone,9999,150 USD,cash,,20/01/2026
+140,John Doe 140,,Female,US,user140email.com,,-2,99.99,,01-15-26,10/01/2026
+141, john doe 141 ,Twenty Eight,female,US,,Laptop,2,99.99,cash,yesterday,20/01/2026
+142,John Doe 142,-5,Male,US,,,5,$200,Transfer,15/01/2026,20/01/2026
+143,JOHN DOE 143,22,Female,NIGERIA,user143email.com,,-2,,,01-15-26,20/01/2026
+144, john doe 144 ,25,,NIGERIA,,Keyboard,0,120,,15/01/2026,invalid-date
+145,John Doe 145,30,Female,USA,user145email.com,Monitor,3,99.99,Cash,yesterday,20/01/2026
+146,JOHN DOE 146,,Male,ng,USER146@EMAIL.COM,,-2,150 USD,Cash,01-15-26,20/01/2026
+146,JOHN DOE 147,40,M,US,,,2,,Transfer,yesterday,
+148,,-5,female,United States,,Laptop,10,99.99,Card,yesterday,20/01/2026
+148,JOHN DOE 149,-5,,USA,USER149@EMAIL.COM,,10,-100,,yesterday,
+150,,-5,M,USA,,Phone,-2,-100,,15/01/2026,20/01/2026
+151,,Twenty Eight,Male,Nigeria,user151email.com,Phone,1,120,,15/01/2026,10/01/2026
+152,,Twenty Eight,F,US,,Monitor,0,,,yesterday,20/01/2026
+152,,40,male,United States,,,5,99.99,Cash,15/01/2026,10/01/2026
+154,John Doe 154,Twenty Eight,,U.S.A,user154@email.com,,5,-100,Transfer,yesterday,10/01/2026
+155, john doe 155 ,25,F,Nigeria,user155email.com,Phone,0,,Card,15/01/2026,invalid-date
+156,,35,M,Nigeria,user156email.com,Laptop,3,500,Card,yesterday,20/01/2026
+157, john doe 157 ,40,F,NIGERIA,,Laptop,-2,150 USD,Transfer,,
+157,,Twenty Eight,Male,ng,USER158@EMAIL.COM,Laptop,0,120,cash,,10/01/2026
+159,,30,female,ng,USER159@EMAIL.COM,Laptop,10,120,Cash,15/01/2026,invalid-date
+160,,35,M,U.S.A,,,10,120,cash,01-15-26,20/01/2026
+161, john doe 161 ,-5,,Nigeria,,,1,50,Card,15/01/2026,20/01/2026
+162,,Twenty Eight,male,NIGERIA,,Laptop,10,-100,CARD,yesterday,10/01/2026
+163,JOHN DOE 163,Twenty Eight,F,NIGERIA,user163email.com,,-2,150 USD,Cash,yesterday,10/01/2026
+164,,250,male,United States,user164email.com,Keyboard,3,,CARD,,20/01/2026
+164, john doe 165 ,30,M,ng,,Monitor,2,50,cash,01-15-26,
+166,,-5,Male,USA,,Keyboard,5,120,cash,yesterday,
+167,JOHN DOE 167,Twenty Eight,,Nigeria,user167@email.com,,5,500,,,invalid-date
+168,JOHN DOE 168,Twenty Eight,,United States,USER168@EMAIL.COM,Laptop,10,50,Transfer,15/01/2026,
+168,,22,,ng,user169@email.com,Mouse,5,,Cash,,invalid-date
+170, john doe 170 ,25,Female,Nigeria,user170email.com,Mouse,3,99.99,Transfer,yesterday,invalid-date
+170,,,,U.S.A,user171email.com,Mouse,1,50,cash,15/01/2026,10/01/2026
+172,,30,F,Nigeria,,,0,,cash,15/01/2026,
+173,John Doe 173,,,Nigeria,user173email.com,Monitor,9999,-100,,yesterday,20/01/2026
+173, john doe 174 ,22,,U.S.A,user174@email.com,,9999,-100,,,10/01/2026
+175,,35,M,US,,,1,99.99,CARD,15/01/2026,20/01/2026
+176,,250,,United States,,Phone,9999,50,Transfer,15/01/2026,10/01/2026
+177,JOHN DOE 177,,female,U.S.A,USER177@EMAIL.COM,Monitor,0,,,01-15-26,
+178,JOHN DOE 178,40,male,Nigeria,user178email.com,,5,150 USD,cash,01-15-26,
+179,John Doe 179,250,F,US,user179@email.com,,-2,,Cash,15/01/2026,invalid-date
+180, john doe 180 ,Twenty Eight,male,Nigeria,,,5,500,cash,,invalid-date
+181,John Doe 181,35,,United States,USER181@EMAIL.COM,,5,50,Transfer,,10/01/2026
+181,,25,Female,ng,,Monitor,3,50,Cash,,10/01/2026
+183, john doe 183 ,40,,ng,,Phone,1,99.99,Card,,10/01/2026
+184,,250,male,United States,user184@email.com,Monitor,9999,120,Transfer,01-15-26,20/01/2026
+185,John Doe 185,,F,U.S.A,user185email.com,,9999,120,Transfer,,
+186, john doe 186 ,40,,ng,,Keyboard,3,50,cash,01-15-26,invalid-date
+186,JOHN DOE 187,-5,Female,USA,USER187@EMAIL.COM,Monitor,2,$200,Transfer,15/01/2026,10/01/2026
+188,JOHN DOE 188,35,F,NIGERIA,,Phone,9999,-100,Card,01-15-26,invalid-date
+189,John Doe 189,25,female,United States,,Mouse,9999,-100,CARD,15/01/2026,
+190,,35,,ng,,Mouse,3,150 USD,,15/01/2026,
+191,John Doe 191,35,male,USA,,,5,99.99,cash,,
+191,John Doe 192,,Female,NIGERIA,,Mouse,5,120,Transfer,15/01/2026,invalid-date
+192,,25,Male,Nigeria,,Keyboard,9999,50,,yesterday,10/01/2026
+194,John Doe 194,40,,United States,USER194@EMAIL.COM,,1,$200,Card,01-15-26,20/01/2026
+194, john doe 195 ,,M,ng,user195email.com,,1,99.99,,yesterday,20/01/2026
+196,,250,M,NIGERIA,,,0,$200,Cash,yesterday,
+197,John Doe 197,25,female,US,USER197@EMAIL.COM,,3,$200,,,10/01/2026
+198, john doe 198 ,,female,U.S.A,,,-2,$200,,15/01/2026,10/01/2026
+199,John Doe 199,25,male,Nigeria,USER199@EMAIL.COM,Laptop,1,$200,Transfer,,20/01/2026
+200,John Doe 200,22,M,Nigeria,USER200@EMAIL.COM,Monitor,5,50,CARD,yesterday,
+201,,-5,female,United States,,Laptop,0,500,cash,01-15-26,10/01/2026
+202,,30,,U.S.A,,Monitor,-2,150 USD,Transfer,15/01/2026,invalid-date
+202,John Doe 203,30,,US,USER203@EMAIL.COM,Mouse,9999,500,cash,15/01/2026,invalid-date
+204,,30,F,USA,user204email.com,Mouse,-2,500,,01-15-26,10/01/2026
+205,,35,Female,US,user205@email.com,Phone,1,-100,,yesterday,20/01/2026
+205, john doe 206 ,-5,Female,US,user206@email.com,Phone,10,50,cash,15/01/2026,10/01/2026
+207,JOHN DOE 207,-5,,US,user207email.com,Laptop,10,$200,,yesterday,invalid-date
+208,,Twenty Eight,Female,NIGERIA,,Phone,0,500,Card,01-15-26,invalid-date
+209,,40,Female,US,user209email.com,Mouse,-2,-100,,15/01/2026,10/01/2026
+210, john doe 210 ,-5,M,NIGERIA,USER210@EMAIL.COM,Mouse,10,150 USD,Transfer,yesterday,
+210, john doe 211 ,30,Female,USA,user211@email.com,,1,50,CARD,15/01/2026,20/01/2026
+211,,22,Male,USA,,Mouse,5,150 USD,cash,01-15-26,20/01/2026
+213,John Doe 213,250,,ng,,Phone,1,50,Card,,invalid-date
+214,,25,male,United States,user214email.com,Keyboard,3,500,Transfer,15/01/2026,invalid-date
+214,,35,,Nigeria,user215@email.com,Keyboard,5,-100,Card,15/01/2026,20/01/2026
+216,,22,Male,U.S.A,user216email.com,Phone,3,99.99,,yesterday,
+217, john doe 217 ,Twenty Eight,F,USA,,Phone,10,50,cash,15/01/2026,invalid-date
+218,,30,,NIGERIA,,Mouse,-2,99.99,Cash,01-15-26,10/01/2026
+219,,250,Female,ng,user219@email.com,Laptop,3,99.99,Cash,,invalid-date
+220,JOHN DOE 220,250,,US,,Phone,0,50,,01-15-26,
+221, john doe 221 ,250,,NIGERIA,user221@email.com,,2,-100,,15/01/2026,20/01/2026
+222,JOHN DOE 222,30,,United States,user222@email.com,,-2,,Cash,01-15-26,20/01/2026
+222,John Doe 223,25,Male,USA,,Monitor,3,99.99,cash,15/01/2026,
+223,John Doe 224,25,Female,Nigeria,,Mouse,0,$200,CARD,15/01/2026,invalid-date
+224, john doe 225 ,250,male,U.S.A,user225email.com,Keyboard,3,120,Cash,01-15-26,invalid-date
+226,,250,Female,US,user226email.com,Laptop,10,150 USD,CARD,15/01/2026,invalid-date
+226,JOHN DOE 227,40,,ng,user227email.com,,1,$200,,01-15-26,
+228, john doe 228 ,30,,United States,,Monitor,10,,,,10/01/2026
+229,John Doe 229,Twenty Eight,Female,Nigeria,,Mouse,5,,CARD,yesterday,invalid-date
+230,,,,U.S.A,user230email.com,,1,150 USD,Cash,15/01/2026,
+230,,35,,Nigeria,user231@email.com,Keyboard,10,120,cash,yesterday,
+232,JOHN DOE 232,,M,NIGERIA,user232@email.com,Mouse,-2,50,Card,01-15-26,20/01/2026
+233, john doe 233 ,250,Female,US,user233@email.com,Monitor,0,$200,Transfer,15/01/2026,20/01/2026
+234,,Twenty Eight,male,USA,user234@email.com,,3,,,15/01/2026,
+234,JOHN DOE 235,30,,USA,USER235@EMAIL.COM,Keyboard,0,-100,,01-15-26,
+236,JOHN DOE 236,Twenty Eight,male,NIGERIA,user236@email.com,,0,99.99,CARD,01-15-26,20/01/2026
+237,,35,M,U.S.A,,,3,120,,01-15-26,
+237,,250,Male,NIGERIA,,Phone,-2,50,CARD,,10/01/2026
+239, john doe 239 ,40,,USA,user239email.com,Monitor,2,99.99,,,10/01/2026
+240,JOHN DOE 240,Twenty Eight,F,ng,,Keyboard,0,$200,cash,,
+241,JOHN DOE 241,30,male,U.S.A,user241@email.com,Monitor,10,99.99,,15/01/2026,invalid-date
+241,,30,M,US,,,-2,$200,cash,,10/01/2026
+243,,30,Male,ng,USER243@EMAIL.COM,Monitor,3,150 USD,Card,01-15-26,10/01/2026
+243,,Twenty Eight,,US,,Phone,3,500,Card,yesterday,
+245, john doe 245 ,22,,Nigeria,USER245@EMAIL.COM,,5,-100,,15/01/2026,invalid-date
+246,,Twenty Eight,Female,US,,Laptop,2,99.99,,01-15-26,invalid-date
+247,,35,male,ng,user247email.com,,10,50,CARD,yesterday,invalid-date
+248,John Doe 248,35,F,Nigeria,USER248@EMAIL.COM,Monitor,0,$200,cash,15/01/2026,10/01/2026
+249,,,male,U.S.A,,,3,,,01-15-26,invalid-date
+250,JOHN DOE 250,250,Female,ng,USER250@EMAIL.COM,,1,-100,,15/01/2026,10/01/2026
+250,,250,male,NIGERIA,,,9999,120,,,invalid-date
+252,,25,Male,ng,,,-2,-100,,01-15-26,
+252, john doe 253 ,25,,United States,USER253@EMAIL.COM,Monitor,9999,,,15/01/2026,
+254,John Doe 254,40,male,NIGERIA,user254email.com,,0,120,,,
+255,,Twenty Eight,Female,NIGERIA,,Phone,1,99.99,,15/01/2026,
+256,JOHN DOE 256,40,M,USA,user256email.com,Keyboard,3,-100,,15/01/2026,invalid-date
+257,,40,male,U.S.A,user257@email.com,Mouse,5,$200,CARD,15/01/2026,20/01/2026
+257, john doe 258 ,,,USA,user258@email.com,Phone,9999,50,Transfer,15/01/2026,invalid-date
+259,,25,M,NIGERIA,user259email.com,,2,99.99,CARD,01-15-26,invalid-date
+260,,25,,ng,USER260@EMAIL.COM,Phone,1,120,Card,yesterday,invalid-date
+260,JOHN DOE 261,25,M,U.S.A,user261email.com,Monitor,3,99.99,,,
+262,,25,female,NIGERIA,USER262@EMAIL.COM,Laptop,5,-100,,15/01/2026,invalid-date
+263,,35,Male,United States,,Monitor,9999,$200,CARD,15/01/2026,10/01/2026
+264,John Doe 264,250,male,USA,,Monitor,-2,,CARD,,10/01/2026
+264,,22,,USA,,,1,$200,cash,,invalid-date
+266, john doe 266 ,,F,US,user266@email.com,Mouse,3,-100,,15/01/2026,invalid-date
+267,,25,male,US,USER267@EMAIL.COM,Mouse,10,$200,cash,15/01/2026,20/01/2026
+268, john doe 268 ,22,,United States,USER268@EMAIL.COM,Mouse,10,120,cash,15/01/2026,20/01/2026
+269,JOHN DOE 269,40,,United States,user269@email.com,Mouse,3,,Card,15/01/2026,invalid-date
+269,,40,M,United States,user270@email.com,Phone,2,150 USD,Cash,yesterday,invalid-date
+271, john doe 271 ,25,Male,US,user271@email.com,Monitor,2,500,Transfer,,20/01/2026
+272, john doe 272 ,30,,NIGERIA,USER272@EMAIL.COM,Monitor,3,50,Cash,,
+273,,25,Male,US,USER273@EMAIL.COM,Laptop,0,99.99,Transfer,,20/01/2026
+274, john doe 274 ,40,female,Nigeria,user274@email.com,,10,,Cash,15/01/2026,
+275, john doe 275 ,35,Male,US,USER275@EMAIL.COM,Laptop,9999,,CARD,,
+276,John Doe 276,,Female,Nigeria,,Phone,0,50,Transfer,01-15-26,20/01/2026
+277,,Twenty Eight,,NIGERIA,user277@email.com,Monitor,1,120,Transfer,01-15-26,20/01/2026
+278,,25,M,U.S.A,,Monitor,2,120,Cash,yesterday,20/01/2026
+279,John Doe 279,-5,Female,U.S.A,user279email.com,,-2,,,01-15-26,
+280,,25,male,Nigeria,,Monitor,3,99.99,,15/01/2026,
+281, john doe 281 ,35,female,ng,user281@email.com,,9999,-100,,yesterday,invalid-date
+282,,22,Male,NIGERIA,USER282@EMAIL.COM,Monitor,5,,Cash,15/01/2026,20/01/2026
+282,John Doe 283,30,M,USA,user283@email.com,Laptop,1,$200,Card,yesterday,10/01/2026
+284,John Doe 284,35,Male,USA,user284@email.com,Phone,3,500,,yesterday,invalid-date
+284,John Doe 285,Twenty Eight,M,Nigeria,user285@email.com,Keyboard,3,99.99,,01-15-26,20/01/2026
+286, john doe 286 ,250,M,United States,USER286@EMAIL.COM,Monitor,9999,50,Transfer,yesterday,
+286,John Doe 287,30,male,United States,,Keyboard,1,500,CARD,01-15-26,
+288,,250,,United States,,Mouse,5,500,cash,,20/01/2026
+289,John Doe 289,-5,female,USA,user289email.com,,-2,-100,Transfer,15/01/2026,20/01/2026
+290,JOHN DOE 290,,Male,ng,USER290@EMAIL.COM,Phone,0,500,cash,15/01/2026,20/01/2026
+291,JOHN DOE 291,250,Male,NIGERIA,,,0,120,Cash,15/01/2026,10/01/2026
+291,John Doe 292,30,male,USA,USER292@EMAIL.COM,Phone,5,150 USD,cash,,invalid-date
+293, john doe 293 ,35,F,NIGERIA,,Phone,1,150 USD,,15/01/2026,invalid-date
+294,John Doe 294,-5,F,NIGERIA,user294@email.com,,1,50,Transfer,15/01/2026,10/01/2026
+294,,25,F,U.S.A,USER295@EMAIL.COM,,0,-100,cash,01-15-26,10/01/2026
+296, john doe 296 ,-5,Male,NIGERIA,user296email.com,Mouse,5,120,Transfer,yesterday,invalid-date
+297,,22,M,United States,,,3,,Card,,10/01/2026
+297,John Doe 298,35,female,U.S.A,user298email.com,Phone,0,,,15/01/2026,20/01/2026
+298,,25,,U.S.A,user299@email.com,Keyboard,0,-100,Transfer,15/01/2026,20/01/2026
+300, john doe 300 ,250,,USA,,,0,$200,,15/01/2026,
+301,JOHN DOE 301,22,M,US,user301@email.com,Phone,10,50,,01-15-26,invalid-date
+301, john doe 302 ,25,,U.S.A,user302@email.com,Laptop,2,,Card,,
+303, john doe 303 ,-5,male,USA,user303email.com,Keyboard,5,500,cash,yesterday,invalid-date
+303,John Doe 304,,female,ng,user304@email.com,,9999,120,,15/01/2026,invalid-date
+305,John Doe 305,Twenty Eight,,ng,USER305@EMAIL.COM,Laptop,5,99.99,Cash,15/01/2026,10/01/2026
+305, john doe 306 ,250,F,US,,Monitor,9999,150 USD,CARD,01-15-26,20/01/2026
+307,JOHN DOE 307,Twenty Eight,Male,U.S.A,user307email.com,,1,-100,,yesterday,
+308,,25,Male,ng,,Keyboard,2,,,,
+309,John Doe 309,,,ng,,,-2,150 USD,Card,,10/01/2026
+310, john doe 310 ,,M,USA,USER310@EMAIL.COM,Keyboard,3,99.99,Card,yesterday,10/01/2026
+311,John Doe 311,250,,Nigeria,user311email.com,Keyboard,5,120,cash,,invalid-date
+311, john doe 312 ,-5,M,Nigeria,user312@email.com,Mouse,10,150 USD,cash,15/01/2026,
+313,,25,,Nigeria,,Mouse,2,99.99,Transfer,01-15-26,invalid-date
+313,John Doe 314,22,,United States,,,3,-100,CARD,yesterday,10/01/2026
+315,JOHN DOE 315,22,female,ng,user315email.com,Keyboard,9999,-100,,01-15-26,20/01/2026
+316,,25,male,U.S.A,user316email.com,Keyboard,5,120,CARD,01-15-26,
+317,,250,,U.S.A,user317@email.com,,9999,,,15/01/2026,10/01/2026
+318,John Doe 318,,,USA,user318@email.com,Monitor,1,120,,15/01/2026,10/01/2026
+319, john doe 319 ,35,F,US,user319@email.com,Mouse,10,,Transfer,yesterday,
+320,JOHN DOE 320,30,Male,US,user320email.com,Laptop,9999,,CARD,01-15-26,10/01/2026
+321,John Doe 321,35,,U.S.A,,,5,500,CARD,15/01/2026,invalid-date
+321,,22,F,US,user322email.com,Monitor,5,-100,CARD,,invalid-date
+323,,Twenty Eight,female,United States,user323@email.com,,10,$200,Card,,20/01/2026
+324,JOHN DOE 324,Twenty Eight,Female,U.S.A,user324email.com,Mouse,2,,,01-15-26,invalid-date
+324,JOHN DOE 325,35,female,US,user325@email.com,Keyboard,1,$200,Transfer,01-15-26,10/01/2026
+326, john doe 326 ,22,M,United States,user326email.com,Laptop,5,,Transfer,15/01/2026,
+327, john doe 327 ,30,female,US,USER327@EMAIL.COM,,10,120,Cash,01-15-26,20/01/2026
+328,,-5,male,US,,Phone,10,-100,cash,yesterday,20/01/2026
+329, john doe 329 ,25,F,US,USER329@EMAIL.COM,Mouse,-2,-100,Transfer,yesterday,20/01/2026
+330,JOHN DOE 330,30,Male,USA,user330email.com,Keyboard,0,120,Cash,15/01/2026,
+330,,35,,US,USER331@EMAIL.COM,Keyboard,3,120,Transfer,yesterday,20/01/2026
+332,John Doe 332,22,Male,NIGERIA,user332email.com,,1,500,CARD,01-15-26,20/01/2026
+333, john doe 333 ,35,male,ng,,Laptop,0,-100,Cash,15/01/2026,20/01/2026
+333,JOHN DOE 334,40,Female,U.S.A,user334email.com,,9999,,Transfer,yesterday,10/01/2026
+335,John Doe 335,22,F,NIGERIA,user335@email.com,,5,500,,15/01/2026,10/01/2026
+336,John Doe 336,22,Male,USA,,,-2,-100,Card,,20/01/2026
+337, john doe 337 ,250,Male,United States,,Keyboard,9999,$200,,15/01/2026,invalid-date
+338,JOHN DOE 338,25,male,ng,,Laptop,10,120,Transfer,yesterday,20/01/2026
+338,JOHN DOE 339,35,M,USA,user339email.com,Mouse,5,-100,Transfer,,10/01/2026
+340,John Doe 340,35,,U.S.A,user340@email.com,Laptop,9999,,,15/01/2026,20/01/2026
+341,JOHN DOE 341,,,USA,,Laptop,2,99.99,,01-15-26,10/01/2026
+342,John Doe 342,30,Male,USA,,,1,-100,CARD,01-15-26,invalid-date
+343,JOHN DOE 343,30,M,USA,user343@email.com,Keyboard,0,,Transfer,yesterday,invalid-date
+344, john doe 344 ,Twenty Eight,Male,ng,USER344@EMAIL.COM,Phone,10,$200,Card,yesterday,
+345, john doe 345 ,250,,US,user345email.com,Laptop,9999,150 USD,Transfer,15/01/2026,
+346,JOHN DOE 346,Twenty Eight,male,US,user346@email.com,,1,99.99,,01-15-26,invalid-date
+347,John Doe 347,35,M,Nigeria,,,9999,,Transfer,yesterday,10/01/2026
+348,JOHN DOE 348,Twenty Eight,Male,Nigeria,USER348@EMAIL.COM,Phone,3,99.99,cash,yesterday,invalid-date
+348,John Doe 349,250,,US,,Monitor,-2,500,Card,15/01/2026,
+350,John Doe 350,Twenty Eight,female,Nigeria,user350@email.com,Mouse,1,99.99,CARD,yesterday,
+351,,Twenty Eight,,NIGERIA,,,0,,Cash,15/01/2026,10/01/2026
+352,JOHN DOE 352,Twenty Eight,F,NIGERIA,user352email.com,Laptop,2,99.99,Card,15/01/2026,20/01/2026
+353, john doe 353 ,30,male,ng,user353email.com,Keyboard,9999,120,CARD,yesterday,20/01/2026
+354,,Twenty Eight,,NIGERIA,user354@email.com,Mouse,5,,cash,15/01/2026,
+354,,30,,Nigeria,,,9999,50,CARD,,20/01/2026
+355,,30,Female,United States,,Keyboard,3,99.99,Cash,yesterday,invalid-date
+357,,40,F,NIGERIA,,,9999,120,cash,15/01/2026,
+358, john doe 358 ,35,F,NIGERIA,user358email.com,Laptop,5,500,,,invalid-date
+359,,-5,male,USA,,Keyboard,9999,$200,CARD,,invalid-date
+360, john doe 360 ,22,Male,NIGERIA,user360email.com,,1,500,Cash,01-15-26,10/01/2026
+361,,35,,U.S.A,,Mouse,1,,,yesterday,20/01/2026
+362,John Doe 362,40,female,U.S.A,user362email.com,Mouse,1,$200,,yesterday,
+363,,Twenty Eight,M,NIGERIA,USER363@EMAIL.COM,Laptop,5,,CARD,,10/01/2026
+364, john doe 364 ,30,M,Nigeria,user364email.com,,2,$200,Cash,15/01/2026,
+365,,22,Male,ng,USER365@EMAIL.COM,,0,150 USD,cash,15/01/2026,20/01/2026
+366, john doe 366 ,40,male,ng,,Mouse,9999,,CARD,15/01/2026,invalid-date
+367,JOHN DOE 367,250,F,United States,USER367@EMAIL.COM,Phone,-2,99.99,,01-15-26,10/01/2026
+368,,,Female,USA,,,9999,50,Cash,15/01/2026,invalid-date
+369,,250,,US,user369@email.com,Laptop,2,$200,Cash,01-15-26,invalid-date
+370,John Doe 370,35,Female,NIGERIA,,,0,99.99,,15/01/2026,10/01/2026
+371,John Doe 371,35,,NIGERIA,user371@email.com,Monitor,-2,99.99,Card,15/01/2026,
+372,,25,Female,United States,,Keyboard,2,50,Transfer,15/01/2026,invalid-date
+373,,Twenty Eight,Male,NIGERIA,,,-2,$200,cash,01-15-26,20/01/2026
+374,,25,male,United States,user374email.com,,1,99.99,Transfer,01-15-26,20/01/2026
+375, john doe 375 ,250,,ng,,,-2,50,,yesterday,10/01/2026
+376,John Doe 376,,Male,USA,user376@email.com,Mouse,10,120,cash,01-15-26,invalid-date
+376,,250,M,U.S.A,USER377@EMAIL.COM,Phone,2,-100,CARD,15/01/2026,invalid-date
+377,,40,male,United States,,,5,99.99,Card,15/01/2026,20/01/2026
+379, john doe 379 ,40,Female,USA,user379email.com,Monitor,2,500,cash,,
+380,,25,M,Nigeria,user380email.com,Mouse,5,,Cash,yesterday,
+381,,-5,female,ng,USER381@EMAIL.COM,Monitor,-2,120,CARD,15/01/2026,invalid-date
+381,,-5,male,U.S.A,user382email.com,,9999,150 USD,cash,yesterday,invalid-date
+383,John Doe 383,25,Male,ng,user383email.com,Mouse,10,120,,,10/01/2026
+383, john doe 384 ,22,F,US,,Phone,-2,500,,15/01/2026,invalid-date
+385,,40,Male,NIGERIA,,Phone,3,150 USD,,,20/01/2026
+386,,30,F,USA,,Phone,3,150 USD,,15/01/2026,10/01/2026
+387, john doe 387 ,Twenty Eight,F,US,USER387@EMAIL.COM,Keyboard,5,99.99,Transfer,01-15-26,invalid-date
+388,,22,,United States,user388email.com,Mouse,1,,,15/01/2026,invalid-date
+389,,25,,Nigeria,user389email.com,Laptop,10,$200,cash,15/01/2026,
+390, john doe 390 ,30,M,U.S.A,,Phone,9999,120,Cash,15/01/2026,20/01/2026
+390,,25,Female,Nigeria,,Phone,5,$200,,01-15-26,20/01/2026
+392, john doe 392 ,250,Male,Nigeria,,Phone,1,500,Card,15/01/2026,10/01/2026
+393,JOHN DOE 393,30,male,U.S.A,,Keyboard,10,120,cash,,
+394,,Twenty Eight,M,Nigeria,,,9999,120,cash,15/01/2026,
+394,,40,M,USA,USER395@EMAIL.COM,Laptop,3,,CARD,yesterday,20/01/2026
+395,,,Male,ng,USER396@EMAIL.COM,Mouse,-2,120,cash,,20/01/2026
+396,JOHN DOE 397,25,Male,NIGERIA,,Mouse,2,150 USD,Transfer,15/01/2026,20/01/2026
+398,JOHN DOE 398,35,,ng,,Phone,9999,$200,,01-15-26,20/01/2026
+399,,25,male,Nigeria,user399@email.com,Laptop,10,$200,Transfer,01-15-26,10/01/2026
+399,,35,female,United States,USER400@EMAIL.COM,,0,$200,cash,01-15-26,20/01/2026
+400, john doe 401 ,250,F,Nigeria,,Mouse,0,-100,Transfer,yesterday,10/01/2026
+402,,40,M,USA,user402@email.com,Phone,10,,cash,yesterday,10/01/2026
+403, john doe 403 ,250,,Nigeria,user403@email.com,Keyboard,0,50,Card,15/01/2026,
+404,,25,,Nigeria,,,10,500,cash,01-15-26,20/01/2026
+405,,40,female,U.S.A,user405@email.com,Laptop,1,120,,yesterday,
+406, john doe 406 ,,male,United States,USER406@EMAIL.COM,,5,120,Transfer,15/01/2026,invalid-date
+407,John Doe 407,-5,male,Nigeria,,Monitor,-2,$200,,,10/01/2026
+408,,,,Nigeria,,Laptop,0,,Cash,01-15-26,10/01/2026
+409,JOHN DOE 409,30,male,ng,,Mouse,-2,99.99,Cash,,20/01/2026
+410,,,,Nigeria,USER410@EMAIL.COM,,10,150 USD,Card,yesterday,
+411,JOHN DOE 411,Twenty Eight,,United States,USER411@EMAIL.COM,Mouse,2,-100,cash,15/01/2026,
+412,John Doe 412,22,M,US,,Monitor,10,500,Cash,01-15-26,20/01/2026
+413, john doe 413 ,35,female,U.S.A,USER413@EMAIL.COM,Phone,10,120,CARD,15/01/2026,
+413,,35,Male,ng,user414@email.com,,0,120,cash,15/01/2026,20/01/2026
+415,,22,M,ng,,Mouse,9999,,Cash,,invalid-date
+416,,250,F,US,,,5,120,,15/01/2026,
+417,John Doe 417,30,Female,US,user417email.com,Mouse,9999,99.99,Card,,
+418,,-5,F,United States,USER418@EMAIL.COM,Phone,0,-100,Transfer,15/01/2026,invalid-date
+419,,250,M,Nigeria,,Phone,5,$200,cash,01-15-26,invalid-date
+420, john doe 420 ,35,M,US,,,2,-100,Card,15/01/2026,
+421,JOHN DOE 421,30,Male,US,,Laptop,-2,150 USD,,15/01/2026,invalid-date
+421,JOHN DOE 422,30,female,United States,user422@email.com,Monitor,1,500,cash,01-15-26,
+423,,,Female,Nigeria,user423@email.com,Mouse,10,,,15/01/2026,
+423,,,male,US,,Mouse,3,-100,Cash,01-15-26,invalid-date
+424,John Doe 425,Twenty Eight,male,U.S.A,,Monitor,3,120,CARD,01-15-26,
+425,JOHN DOE 426,-5,,US,user426email.com,Phone,0,-100,CARD,01-15-26,
+427,,22,male,USA,USER427@EMAIL.COM,Laptop,3,500,Transfer,01-15-26,20/01/2026
+428,,,M,USA,user428@email.com,,1,50,Transfer,yesterday,20/01/2026
+429,,40,M,USA,USER429@EMAIL.COM,Laptop,5,500,,01-15-26,
+429, john doe 430 ,-5,M,Nigeria,,Mouse,0,150 USD,Transfer,yesterday,invalid-date
+430,JOHN DOE 431,250,F,US,user431@email.com,Monitor,10,,CARD,yesterday,10/01/2026
+432,,40,Male,NIGERIA,user432email.com,Keyboard,1,50,,,10/01/2026
+433,John Doe 433,Twenty Eight,F,U.S.A,,Keyboard,10,50,cash,yesterday,invalid-date
+434,JOHN DOE 434,250,male,US,,,-2,500,CARD,15/01/2026,
+435,John Doe 435,,M,U.S.A,,Monitor,10,-100,Card,,invalid-date
+436,John Doe 436,Twenty Eight,M,USA,USER436@EMAIL.COM,Mouse,9999,-100,Card,,
+437, john doe 437 ,30,male,U.S.A,,Laptop,2,-100,Transfer,01-15-26,10/01/2026
+437,John Doe 438,35,F,USA,user438email.com,,0,$200,,01-15-26,
+438, john doe 439 ,30,Female,ng,,Monitor,1,-100,,yesterday,20/01/2026
+440,John Doe 440,250,Female,US,,,1,99.99,,15/01/2026,
+441,John Doe 441,25,male,United States,user441email.com,Keyboard,5,150 USD,,yesterday,invalid-date
+442,,40,F,USA,user442@email.com,Phone,5,,,15/01/2026,10/01/2026
+442,,40,M,United States,user443@email.com,,2,$200,Card,15/01/2026,20/01/2026
+444,JOHN DOE 444,35,M,NIGERIA,user444@email.com,Mouse,3,150 USD,,15/01/2026,invalid-date
+445,,25,Female,USA,,,3,150 USD,Transfer,15/01/2026,invalid-date
+446,,-5,,U.S.A,,Mouse,3,-100,CARD,15/01/2026,
+447,John Doe 447,,M,US,,Monitor,0,,,yesterday,invalid-date
+448,,40,F,ng,USER448@EMAIL.COM,Mouse,0,150 USD,CARD,15/01/2026,
+449,,-5,female,United States,,Keyboard,2,$200,,15/01/2026,
+450, john doe 450 ,-5,Male,U.S.A,user450@email.com,Laptop,2,99.99,Transfer,,20/01/2026
+451,John Doe 451,35,F,U.S.A,,Mouse,2,50,,,
+452,JOHN DOE 452,25,,ng,,Monitor,1,500,,yesterday,20/01/2026
+453,,22,male,USA,user453@email.com,,10,50,CARD,15/01/2026,invalid-date
+454,,,,NIGERIA,,Laptop,-2,500,,15/01/2026,10/01/2026
+454,,-5,F,NIGERIA,USER455@EMAIL.COM,Phone,9999,$200,cash,15/01/2026,10/01/2026
+455,,Twenty Eight,F,Nigeria,user456email.com,Phone,0,,cash,,invalid-date
+456,,,,USA,user457email.com,,5,$200,Card,,invalid-date
+458, john doe 458 ,40,F,USA,user458email.com,,1,120,,01-15-26,20/01/2026
+459, john doe 459 ,40,female,United States,user459email.com,Mouse,3,99.99,CARD,15/01/2026,
+460,John Doe 460,35,F,ng,,Keyboard,10,-100,CARD,15/01/2026,
+461,JOHN DOE 461,Twenty Eight,F,ng,user461@email.com,Keyboard,2,-100,Transfer,15/01/2026,
+462,JOHN DOE 462,25,M,United States,user462email.com,Mouse,5,50,,yesterday,20/01/2026
+463, john doe 463 ,35,,United States,,,3,50,Transfer,yesterday,
+464,,30,,United States,,Laptop,3,,Transfer,15/01/2026,
+465,,,,NIGERIA,,Mouse,-2,120,CARD,15/01/2026,
+466,,,male,USA,,,5,500,Transfer,15/01/2026,invalid-date
+467,JOHN DOE 467,250,M,United States,user467email.com,Mouse,0,,,15/01/2026,invalid-date
+468, john doe 468 ,Twenty Eight,male,USA,USER468@EMAIL.COM,,3,150 USD,Card,15/01/2026,10/01/2026
+469,,35,,USA,user469@email.com,Monitor,3,-100,CARD,15/01/2026,invalid-date
+469,,,M,NIGERIA,,,5,500,,,invalid-date
+471, john doe 471 ,22,female,USA,user471@email.com,Keyboard,-2,50,,01-15-26,10/01/2026
+472,JOHN DOE 472,22,,U.S.A,user472@email.com,Keyboard,2,$200,cash,01-15-26,invalid-date
+473,,25,,Nigeria,USER473@EMAIL.COM,,0,150 USD,Card,,20/01/2026
+474,John Doe 474,22,F,NIGERIA,,Monitor,5,-100,Cash,01-15-26,
+475,,40,female,U.S.A,,Phone,5,-100,Cash,15/01/2026,invalid-date
+476,,250,M,US,,Monitor,3,99.99,cash,yesterday,10/01/2026
+477, john doe 477 ,-5,female,NIGERIA,,,9999,120,cash,15/01/2026,10/01/2026
+478,,30,male,U.S.A,user478email.com,Monitor,-2,120,,,10/01/2026
+478,JOHN DOE 479,30,M,ng,user479email.com,Phone,1,,Card,yesterday,
+480,,30,Female,U.S.A,,,3,50,Card,,invalid-date
+481,,-5,,US,user481email.com,Phone,2,150 USD,CARD,15/01/2026,
+481, john doe 482 ,35,Female,ng,user482email.com,Phone,5,50,Card,yesterday,20/01/2026
+482,,30,Male,Nigeria,USER483@EMAIL.COM,,9999,150 USD,,01-15-26,
+484,,250,,ng,,Laptop,0,$200,CARD,,20/01/2026
+485, john doe 485 ,,female,US,,Keyboard,-2,50,Cash,,
+486,,40,M,US,,,9999,120,,yesterday,invalid-date
+486,JOHN DOE 487,Twenty Eight,,USA,,Phone,2,99.99,Transfer,15/01/2026,10/01/2026
+488,John Doe 488,35,male,NIGERIA,USER488@EMAIL.COM,Keyboard,9999,99.99,,01-15-26,invalid-date
+488,John Doe 489,-5,M,United States,,Mouse,2,$200,,,10/01/2026
+490,JOHN DOE 490,30,,United States,,,3,120,CARD,15/01/2026,20/01/2026
+490,,25,,Nigeria,user491@email.com,,3,500,Card,15/01/2026,invalid-date
+491,,Twenty Eight,male,Nigeria,,Mouse,5,500,Card,,
+493,JOHN DOE 493,35,Male,U.S.A,USER493@EMAIL.COM,,10,500,Card,15/01/2026,10/01/2026
+494, john doe 494 ,40,female,Nigeria,,,0,99.99,,15/01/2026,20/01/2026
+495,JOHN DOE 495,,F,United States,user495@email.com,Keyboard,3,150 USD,,,invalid-date
+496,JOHN DOE 496,25,F,Nigeria,USER496@EMAIL.COM,Keyboard,-2,99.99,cash,01-15-26,
+497,,35,F,United States,,Mouse,5,50,cash,15/01/2026,20/01/2026
+498,,-5,Female,NIGERIA,,Monitor,3,150 USD,CARD,,
+498,,22,Male,United States,USER499@EMAIL.COM,Monitor,2,50,cash,yesterday,20/01/2026
+500,JOHN DOE 500,35,F,ng,user500@email.com,Laptop,1,500,Card,01-15-26,invalid-date

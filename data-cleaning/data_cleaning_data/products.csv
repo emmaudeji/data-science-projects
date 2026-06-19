@@ -1,0 +1,2001 @@
+product_id,product_name,category,price,stock
+1,Product 1,Electronics,$99,100
+2,,ELEC,10,100
+3,,ELEC,,0
+4,,,10,20
+5,,Electronics,10,-10
+6,,,50,-10
+7,,Electronics,100 USD,99999
+8,,ELEC,,5
+9,Product 9,Home,,-10
+10,,,10,99999
+11,,HOME,10,99999
+12,,Home,$99,-10
+13,,Home,100,99999
+14,,,10,5
+15,Product 15,Electronics,$99,100
+16,Product 16,,$99,100
+17,,,10,20
+18,,ELEC,100 USD,-10
+19,,Electronics,-20,100
+20,Product 20,Home,100,100
+21,,Electronics,100 USD,-10
+22,,Home,-20,100
+23,,HOME,100,0
+24,,Home,$99,5
+25,Product 25,electronics,$99,20
+26,Product 26,,$99,20
+27,,HOME,100,0
+28,Product 28,ELEC,100,99999
+29,Product 29,,100,0
+30,,HOME,,-10
+31,,ELEC,10,0
+32,,HOME,100 USD,0
+33,Product 33,Home,100 USD,100
+34,,Home,50,20
+35,,Electronics,$99,20
+36,Product 36,,100,-10
+37,,Home,-20,20
+38,,,10,99999
+39,,HOME,100,20
+40,Product 40,electronics,50,0
+41,Product 41,,100,5
+42,,Home,$99,5
+43,,,,99999
+44,,HOME,$99,20
+45,,Electronics,50,99999
+46,,HOME,,20
+47,,Electronics,10,0
+48,,HOME,100,20
+49,Product 49,,50,5
+50,,ELEC,100 USD,0
+51,Product 51,electronics,$99,100
+52,,HOME,100 USD,5
+53,Product 53,electronics,$99,0
+54,,,-20,100
+55,Product 55,ELEC,10,-10
+56,,,50,99999
+57,,electronics,$99,5
+58,Product 58,ELEC,,-10
+59,,ELEC,50,100
+60,,electronics,10,0
+61,,HOME,$99,20
+62,Product 62,electronics,100 USD,100
+63,Product 63,Home,,5
+64,Product 64,Home,-20,100
+65,,ELEC,$99,99999
+66,Product 66,ELEC,$99,100
+67,Product 67,Electronics,50,100
+68,,,50,100
+69,,ELEC,,99999
+70,Product 70,HOME,,99999
+71,,electronics,10,99999
+72,,HOME,,5
+73,,ELEC,$99,0
+74,,Electronics,100,-10
+75,,Home,-20,5
+76,,ELEC,50,100
+77,,HOME,,0
+78,,Electronics,-20,5
+79,,,$99,-10
+80,Product 80,Electronics,100,100
+81,Product 81,Electronics,50,99999
+82,,HOME,$99,-10
+83,,electronics,50,-10
+84,,HOME,,100
+85,Product 85,HOME,-20,100
+86,Product 86,Electronics,100,99999
+87,Product 87,,100,99999
+88,Product 88,ELEC,100,5
+89,Product 89,Electronics,50,-10
+90,,electronics,,5
+91,Product 91,Electronics,50,100
+92,,,,20
+93,Product 93,Electronics,$99,5
+94,,ELEC,,99999
+95,,ELEC,50,100
+96,Product 96,HOME,$99,5
+97,Product 97,,,-10
+98,Product 98,HOME,10,5
+99,,electronics,10,100
+100,Product 100,ELEC,,-10
+101,,,50,0
+102,,,100,20
+103,Product 103,HOME,50,100
+104,,ELEC,100 USD,-10
+105,,,-20,-10
+106,,HOME,10,-10
+107,,ELEC,$99,-10
+108,,,,20
+109,,,-20,20
+110,,electronics,50,5
+111,Product 111,HOME,-20,20
+112,Product 112,ELEC,10,20
+113,,ELEC,-20,0
+114,,,100 USD,100
+115,,electronics,-20,20
+116,,HOME,,20
+117,Product 117,Home,-20,0
+118,Product 118,ELEC,100,0
+119,Product 119,Electronics,-20,99999
+120,Product 120,Electronics,50,99999
+121,,,,0
+122,,Electronics,10,99999
+123,,Electronics,-20,100
+124,Product 124,,10,0
+125,,Home,$99,99999
+126,,electronics,-20,99999
+127,Product 127,Electronics,-20,-10
+128,,Home,50,99999
+129,Product 129,electronics,10,100
+130,Product 130,Electronics,,20
+131,Product 131,Electronics,$99,5
+132,,ELEC,50,5
+133,,ELEC,100 USD,20
+134,Product 134,,100,100
+135,,,-20,20
+136,Product 136,HOME,,100
+137,,Electronics,100 USD,100
+138,Product 138,ELEC,,100
+139,Product 139,Home,100 USD,5
+140,Product 140,HOME,,-10
+141,,Home,10,100
+142,Product 142,ELEC,100,100
+143,Product 143,Electronics,50,100
+144,,ELEC,100 USD,20
+145,,Electronics,$99,-10
+146,Product 146,,-20,99999
+147,,electronics,100,99999
+148,Product 148,,10,20
+149,Product 149,Electronics,10,20
+150,Product 150,Home,100 USD,-10
+151,Product 151,electronics,-20,99999
+152,,ELEC,$99,5
+153,,Electronics,-20,0
+154,Product 154,HOME,,5
+155,,ELEC,50,100
+156,Product 156,,50,99999
+157,,electronics,100,100
+158,Product 158,Home,100 USD,20
+159,,,$99,5
+160,Product 160,electronics,100,99999
+161,,Electronics,-20,99999
+162,,Electronics,,0
+163,,HOME,100 USD,-10
+164,,electronics,100,0
+165,,electronics,100 USD,20
+166,,,100 USD,20
+167,,ELEC,-20,100
+168,Product 168,HOME,-20,0
+169,,Electronics,,0
+170,Product 170,,10,100
+171,Product 171,electronics,100,100
+172,,,$99,-10
+173,,Home,$99,20
+174,,Home,100,100
+175,,ELEC,-20,20
+176,,,-20,100
+177,,Home,-20,20
+178,,,10,5
+179,,,$99,0
+180,,HOME,,99999
+181,,Electronics,50,5
+182,,electronics,50,0
+183,,,100,99999
+184,,electronics,100 USD,5
+185,,ELEC,100 USD,20
+186,,,50,0
+187,,Home,10,0
+188,Product 188,ELEC,$99,-10
+189,Product 189,ELEC,$99,0
+190,Product 190,ELEC,,-10
+191,Product 191,HOME,$99,5
+192,,ELEC,10,20
+193,,HOME,10,20
+194,,,10,-10
+195,Product 195,Home,-20,20
+196,Product 196,HOME,-20,-10
+197,Product 197,Electronics,100,100
+198,,electronics,,20
+199,Product 199,Electronics,$99,0
+200,,ELEC,10,-10
+201,,Electronics,100 USD,5
+202,,ELEC,100,0
+203,Product 203,Home,100,0
+204,Product 204,,100 USD,-10
+205,,electronics,100 USD,5
+206,,Electronics,100 USD,99999
+207,,ELEC,$99,20
+208,Product 208,electronics,,0
+209,Product 209,,,0
+210,,ELEC,$99,20
+211,,HOME,,99999
+212,,HOME,,5
+213,,Electronics,$99,99999
+214,,Electronics,-20,100
+215,,ELEC,,5
+216,,Electronics,10,-10
+217,Product 217,Electronics,100 USD,100
+218,Product 218,electronics,50,-10
+219,Product 219,,50,5
+220,,ELEC,50,-10
+221,Product 221,Home,10,20
+222,,,100 USD,-10
+223,Product 223,Home,$99,5
+224,Product 224,,-20,20
+225,Product 225,ELEC,,-10
+226,Product 226,Electronics,10,20
+227,,HOME,-20,5
+228,,Electronics,10,100
+229,Product 229,Home,10,5
+230,Product 230,ELEC,50,-10
+231,,ELEC,10,5
+232,,ELEC,100 USD,-10
+233,,Home,-20,5
+234,Product 234,electronics,100 USD,0
+235,Product 235,Electronics,50,0
+236,,electronics,100,5
+237,,,100 USD,100
+238,,,-20,5
+239,,Electronics,50,99999
+240,,electronics,10,20
+241,Product 241,HOME,100,20
+242,Product 242,Home,10,0
+243,,Home,100 USD,0
+244,,electronics,10,20
+245,,HOME,100,-10
+246,,ELEC,100,100
+247,,electronics,$99,5
+248,,Electronics,10,100
+249,,HOME,10,5
+250,,electronics,100,5
+251,Product 251,,50,100
+252,,ELEC,10,100
+253,,Electronics,$99,0
+254,,Electronics,-20,99999
+255,,Home,100,-10
+256,Product 256,ELEC,100,20
+257,,,50,-10
+258,,HOME,100 USD,100
+259,Product 259,electronics,50,99999
+260,,HOME,-20,-10
+261,Product 261,ELEC,10,100
+262,Product 262,Electronics,100 USD,99999
+263,,Electronics,-20,5
+264,,ELEC,100 USD,99999
+265,,ELEC,-20,5
+266,,Home,-20,100
+267,Product 267,Electronics,50,-10
+268,,Home,100 USD,5
+269,,HOME,-20,5
+270,Product 270,HOME,$99,100
+271,,ELEC,-20,0
+272,Product 272,,10,5
+273,Product 273,ELEC,50,99999
+274,,HOME,,99999
+275,Product 275,HOME,50,-10
+276,,electronics,-20,5
+277,,,,5
+278,,HOME,10,20
+279,,ELEC,100 USD,-10
+280,,Electronics,100,0
+281,Product 281,HOME,100 USD,100
+282,,ELEC,-20,100
+283,Product 283,Home,100,-10
+284,Product 284,electronics,50,20
+285,,HOME,50,-10
+286,,electronics,100,99999
+287,,electronics,50,20
+288,Product 288,Home,$99,-10
+289,,electronics,,-10
+290,Product 290,HOME,,5
+291,,HOME,-20,0
+292,,,50,100
+293,Product 293,HOME,100 USD,5
+294,Product 294,HOME,10,-10
+295,Product 295,HOME,100,100
+296,,,$99,99999
+297,,Home,100,20
+298,,ELEC,-20,99999
+299,,,,0
+300,Product 300,,10,99999
+301,,HOME,-20,-10
+302,,ELEC,$99,5
+303,,HOME,,-10
+304,,HOME,10,99999
+305,Product 305,HOME,100 USD,100
+306,,ELEC,100,-10
+307,Product 307,Home,-20,0
+308,,,100 USD,20
+309,,Electronics,100 USD,0
+310,,,$99,20
+311,Product 311,,50,100
+312,,ELEC,100 USD,100
+313,,electronics,$99,0
+314,Product 314,HOME,$99,20
+315,,Electronics,100 USD,0
+316,,Home,,99999
+317,Product 317,HOME,50,5
+318,Product 318,,$99,100
+319,Product 319,Home,100 USD,5
+320,,HOME,,-10
+321,Product 321,,100 USD,-10
+322,,,100,99999
+323,Product 323,Home,10,99999
+324,,Electronics,100,20
+325,,HOME,10,5
+326,,HOME,$99,20
+327,Product 327,electronics,10,99999
+328,,Home,100,99999
+329,,Home,100,100
+330,,,50,100
+331,,Electronics,,-10
+332,Product 332,Home,10,20
+333,,Electronics,100 USD,5
+334,Product 334,Home,,0
+335,,,50,20
+336,Product 336,Home,,-10
+337,Product 337,Electronics,100 USD,5
+338,Product 338,electronics,,20
+339,,Electronics,,5
+340,,,100 USD,100
+341,,,100,0
+342,,,-20,99999
+343,Product 343,,100,20
+344,Product 344,ELEC,10,20
+345,,HOME,$99,100
+346,Product 346,electronics,,20
+347,,Electronics,,-10
+348,,HOME,$99,-10
+349,,ELEC,50,5
+350,,electronics,$99,100
+351,,Electronics,50,20
+352,,HOME,,-10
+353,,ELEC,$99,20
+354,,ELEC,50,5
+355,Product 355,ELEC,100,99999
+356,,,-20,5
+357,,Electronics,50,-10
+358,,,100 USD,99999
+359,,Home,-20,5
+360,Product 360,,100,99999
+361,,electronics,-20,0
+362,,Home,100 USD,5
+363,Product 363,electronics,10,0
+364,,Electronics,-20,0
+365,,,100,20
+366,,Home,50,5
+367,,ELEC,100 USD,0
+368,,Home,50,0
+369,,,-20,99999
+370,,ELEC,,-10
+371,,Home,50,100
+372,,Home,10,5
+373,,Electronics,50,100
+374,,electronics,,-10
+375,,,100 USD,0
+376,Product 376,Home,100 USD,-10
+377,,Electronics,100 USD,100
+378,,HOME,100,0
+379,,electronics,,0
+380,,,$99,100
+381,,HOME,100,5
+382,Product 382,HOME,$99,99999
+383,,Home,100 USD,0
+384,,electronics,-20,20
+385,,Electronics,10,5
+386,,Electronics,10,20
+387,,HOME,50,-10
+388,,Electronics,,5
+389,,Electronics,-20,0
+390,,HOME,100,99999
+391,,,$99,100
+392,,ELEC,10,0
+393,,Home,10,100
+394,,,100,0
+395,,Home,100 USD,0
+396,,electronics,100 USD,20
+397,Product 397,ELEC,-20,0
+398,Product 398,ELEC,,20
+399,,ELEC,50,20
+400,,Electronics,,5
+401,,HOME,,99999
+402,,electronics,10,0
+403,,HOME,10,0
+404,Product 404,Electronics,$99,99999
+405,Product 405,HOME,100,5
+406,Product 406,Electronics,,100
+407,,HOME,100,99999
+408,,Electronics,100,5
+409,Product 409,electronics,100,20
+410,Product 410,HOME,$99,100
+411,Product 411,,,100
+412,Product 412,,,5
+413,,Home,-20,100
+414,Product 414,,,-10
+415,Product 415,Home,,0
+416,,Electronics,100,99999
+417,Product 417,,-20,20
+418,Product 418,ELEC,10,0
+419,,electronics,50,-10
+420,,ELEC,10,99999
+421,,Electronics,100 USD,20
+422,,ELEC,10,100
+423,,Electronics,100,5
+424,,HOME,,5
+425,,electronics,10,100
+426,Product 426,,50,20
+427,,Electronics,100,99999
+428,,electronics,50,20
+429,,,10,0
+430,Product 430,ELEC,10,20
+431,,Electronics,50,100
+432,,HOME,$99,5
+433,,ELEC,$99,99999
+434,Product 434,ELEC,100 USD,5
+435,,electronics,$99,5
+436,,,$99,100
+437,,HOME,100,100
+438,Product 438,,-20,-10
+439,,ELEC,,100
+440,,,,20
+441,,Electronics,$99,5
+442,Product 442,HOME,100,100
+443,,,$99,100
+444,,HOME,10,5
+445,,electronics,$99,99999
+446,,ELEC,,99999
+447,,ELEC,$99,5
+448,Product 448,Home,100 USD,99999
+449,,ELEC,100,100
+450,,ELEC,100,-10
+451,,,10,99999
+452,Product 452,electronics,10,100
+453,,Electronics,,20
+454,,Home,,20
+455,,Electronics,100 USD,99999
+456,Product 456,HOME,-20,0
+457,Product 457,Electronics,$99,5
+458,,Home,,-10
+459,Product 459,Electronics,$99,0
+460,,,$99,-10
+461,Product 461,,100 USD,5
+462,,HOME,10,0
+463,Product 463,Electronics,100,100
+464,Product 464,HOME,100 USD,99999
+465,,ELEC,100 USD,20
+466,,ELEC,,5
+467,,electronics,100,100
+468,,electronics,10,99999
+469,Product 469,HOME,100 USD,20
+470,Product 470,Electronics,10,-10
+471,,ELEC,100 USD,99999
+472,,electronics,-20,20
+473,,,50,0
+474,,ELEC,100,0
+475,,Home,50,99999
+476,Product 476,Electronics,10,-10
+477,,HOME,100 USD,-10
+478,,Home,100 USD,100
+479,,,,0
+480,,electronics,-20,100
+481,Product 481,electronics,50,-10
+482,,ELEC,-20,-10
+483,,,50,0
+484,,HOME,50,20
+485,,HOME,$99,0
+486,,Electronics,100 USD,100
+487,Product 487,electronics,-20,100
+488,,Electronics,$99,99999
+489,,,10,5
+490,,Home,-20,5
+491,Product 491,Electronics,10,5
+492,,,,5
+493,,,100,-10
+494,Product 494,electronics,100,-10
+495,,Electronics,100 USD,20
+496,,Electronics,100 USD,20
+497,,ELEC,10,99999
+498,Product 498,Home,100,100
+499,,electronics,50,-10
+500,,HOME,,-10
+501,,Electronics,10,-10
+502,,electronics,10,99999
+503,Product 503,Home,-20,99999
+504,Product 504,ELEC,100 USD,-10
+505,,ELEC,$99,99999
+506,,,100 USD,100
+507,Product 507,ELEC,50,20
+508,Product 508,,-20,100
+509,,HOME,100 USD,100
+510,,,50,5
+511,,ELEC,$99,100
+512,,Electronics,,100
+513,Product 513,electronics,$99,99999
+514,,electronics,,100
+515,Product 515,electronics,$99,0
+516,,Home,10,5
+517,Product 517,Home,,99999
+518,,electronics,$99,100
+519,,Home,$99,99999
+520,,electronics,-20,5
+521,,electronics,$99,-10
+522,Product 522,,,20
+523,Product 523,Home,$99,20
+524,,,100,20
+525,,Electronics,100 USD,99999
+526,,,100 USD,100
+527,,HOME,$99,20
+528,,HOME,$99,5
+529,Product 529,Electronics,$99,0
+530,,,50,5
+531,,Electronics,100,20
+532,Product 532,Electronics,-20,-10
+533,,electronics,100,99999
+534,,ELEC,-20,20
+535,,,10,20
+536,,Home,50,20
+537,Product 537,ELEC,100 USD,99999
+538,,Electronics,-20,5
+539,Product 539,Home,100 USD,99999
+540,,,,100
+541,,Electronics,-20,0
+542,Product 542,Electronics,50,5
+543,,HOME,10,20
+544,,ELEC,,5
+545,Product 545,electronics,100 USD,0
+546,,,-20,0
+547,,,,-10
+548,Product 548,,,-10
+549,,Home,$99,0
+550,Product 550,,$99,99999
+551,,Electronics,100 USD,100
+552,Product 552,HOME,$99,-10
+553,Product 553,Home,,5
+554,,electronics,10,100
+555,,electronics,10,-10
+556,,Home,,100
+557,Product 557,electronics,-20,-10
+558,,Home,-20,5
+559,,HOME,100,-10
+560,,Home,10,0
+561,,ELEC,100 USD,0
+562,Product 562,HOME,100,-10
+563,,ELEC,$99,0
+564,,ELEC,100 USD,100
+565,,Electronics,-20,100
+566,,electronics,10,5
+567,,Electronics,100 USD,-10
+568,,electronics,-20,0
+569,,Electronics,$99,100
+570,,Electronics,100 USD,-10
+571,,HOME,50,99999
+572,,,,100
+573,Product 573,Electronics,10,100
+574,,HOME,100 USD,20
+575,,Home,10,5
+576,Product 576,electronics,100 USD,20
+577,,Electronics,100 USD,-10
+578,,Home,50,20
+579,,Electronics,50,0
+580,Product 580,ELEC,100 USD,5
+581,,electronics,100,99999
+582,,HOME,10,99999
+583,,electronics,100 USD,99999
+584,,HOME,,99999
+585,Product 585,Electronics,100,-10
+586,Product 586,HOME,-20,99999
+587,,electronics,100,0
+588,,Home,-20,0
+589,Product 589,Electronics,10,100
+590,,,10,-10
+591,,,$99,0
+592,,Electronics,$99,-10
+593,Product 593,,50,-10
+594,,HOME,-20,20
+595,Product 595,Home,-20,0
+596,,ELEC,10,99999
+597,Product 597,HOME,10,-10
+598,,HOME,100,0
+599,Product 599,Home,100,99999
+600,Product 600,Home,100 USD,0
+601,Product 601,ELEC,10,20
+602,Product 602,,100 USD,99999
+603,,Electronics,$99,-10
+604,,Electronics,50,20
+605,Product 605,ELEC,,99999
+606,Product 606,Electronics,50,0
+607,,,$99,5
+608,Product 608,HOME,-20,5
+609,Product 609,Electronics,100 USD,100
+610,Product 610,electronics,100 USD,5
+611,,HOME,-20,-10
+612,,ELEC,-20,5
+613,,,-20,20
+614,,,100 USD,99999
+615,,ELEC,100 USD,0
+616,Product 616,HOME,$99,20
+617,,electronics,10,100
+618,Product 618,ELEC,$99,20
+619,,Electronics,50,100
+620,,ELEC,$99,20
+621,,Electronics,50,5
+622,Product 622,HOME,$99,20
+623,,ELEC,100,5
+624,,electronics,,20
+625,,ELEC,,-10
+626,,ELEC,,5
+627,Product 627,HOME,100,0
+628,,Electronics,50,100
+629,,electronics,50,20
+630,,HOME,,100
+631,Product 631,electronics,50,99999
+632,Product 632,,50,0
+633,,Home,10,99999
+634,Product 634,Electronics,10,0
+635,,,100 USD,5
+636,,electronics,50,99999
+637,,Home,100 USD,99999
+638,,Electronics,$99,5
+639,,Electronics,50,99999
+640,,,100 USD,5
+641,,electronics,10,0
+642,Product 642,Electronics,$99,-10
+643,Product 643,HOME,$99,5
+644,,,10,-10
+645,,HOME,$99,5
+646,Product 646,electronics,10,-10
+647,,Electronics,50,-10
+648,,HOME,10,99999
+649,,HOME,$99,100
+650,Product 650,electronics,10,-10
+651,Product 651,HOME,$99,100
+652,,,100 USD,-10
+653,,Electronics,$99,0
+654,,electronics,50,20
+655,,HOME,-20,5
+656,,electronics,100,-10
+657,,HOME,10,20
+658,,HOME,,100
+659,,,,-10
+660,,HOME,10,100
+661,,HOME,-20,-10
+662,Product 662,electronics,100,20
+663,,ELEC,100,5
+664,Product 664,,100,-10
+665,,,100 USD,99999
+666,,ELEC,$99,20
+667,Product 667,,100 USD,-10
+668,Product 668,,,100
+669,Product 669,electronics,$99,0
+670,,ELEC,100,5
+671,Product 671,,100,-10
+672,,HOME,10,0
+673,,Home,-20,-10
+674,,HOME,,5
+675,,electronics,100 USD,99999
+676,,Electronics,100,-10
+677,,ELEC,,-10
+678,,Home,100 USD,-10
+679,,Electronics,100,0
+680,Product 680,ELEC,$99,20
+681,,ELEC,100,5
+682,,Home,$99,5
+683,,electronics,-20,5
+684,Product 684,ELEC,100,99999
+685,,Electronics,$99,99999
+686,Product 686,Electronics,-20,20
+687,,Home,-20,0
+688,,ELEC,100,99999
+689,,Home,100,-10
+690,,ELEC,$99,0
+691,,,$99,99999
+692,,Home,10,0
+693,,Electronics,-20,0
+694,Product 694,ELEC,,0
+695,Product 695,electronics,100 USD,5
+696,,ELEC,,-10
+697,,Electronics,-20,20
+698,,ELEC,,20
+699,Product 699,electronics,,-10
+700,,Electronics,$99,99999
+701,,ELEC,50,100
+702,Product 702,,100,-10
+703,,ELEC,$99,99999
+704,,,100 USD,100
+705,,Electronics,$99,0
+706,,ELEC,100,100
+707,,ELEC,-20,100
+708,,electronics,-20,99999
+709,Product 709,Home,$99,99999
+710,,Electronics,100 USD,0
+711,,HOME,100 USD,100
+712,Product 712,,,0
+713,Product 713,Home,100,-10
+714,,Electronics,-20,100
+715,,Home,-20,20
+716,Product 716,electronics,100,0
+717,,,100 USD,100
+718,Product 718,ELEC,100,20
+719,Product 719,Electronics,100 USD,99999
+720,Product 720,electronics,50,20
+721,Product 721,,10,100
+722,,electronics,100 USD,100
+723,,ELEC,$99,100
+724,,electronics,10,-10
+725,,ELEC,50,99999
+726,,Electronics,,5
+727,,Electronics,,99999
+728,Product 728,Electronics,100,99999
+729,,ELEC,,5
+730,,electronics,50,5
+731,Product 731,Electronics,-20,99999
+732,,,100 USD,20
+733,,Home,$99,99999
+734,,ELEC,-20,5
+735,Product 735,ELEC,,20
+736,Product 736,Electronics,100 USD,99999
+737,Product 737,Electronics,$99,100
+738,,HOME,50,100
+739,Product 739,Home,50,99999
+740,,Electronics,10,-10
+741,,Electronics,100,-10
+742,,,-20,99999
+743,,Electronics,$99,0
+744,,,,5
+745,,Electronics,100 USD,20
+746,,Electronics,,5
+747,Product 747,HOME,100,-10
+748,Product 748,,$99,-10
+749,Product 749,Home,-20,99999
+750,Product 750,ELEC,50,-10
+751,,Home,50,20
+752,,,10,-10
+753,,HOME,-20,99999
+754,,electronics,100,20
+755,,electronics,,100
+756,,ELEC,-20,0
+757,,,,100
+758,Product 758,Home,100,99999
+759,,Home,$99,5
+760,Product 760,,100 USD,-10
+761,,Electronics,-20,0
+762,Product 762,electronics,50,100
+763,,HOME,10,99999
+764,Product 764,,10,20
+765,,ELEC,,5
+766,Product 766,Home,50,-10
+767,,HOME,-20,100
+768,,,10,20
+769,,Electronics,100,99999
+770,,HOME,$99,100
+771,Product 771,electronics,-20,20
+772,Product 772,electronics,50,20
+773,,Electronics,-20,5
+774,Product 774,HOME,-20,100
+775,,ELEC,100,99999
+776,,ELEC,10,0
+777,,electronics,10,0
+778,,HOME,$99,100
+779,,,$99,-10
+780,,Home,-20,99999
+781,Product 781,Electronics,100 USD,-10
+782,,,-20,99999
+783,,,-20,-10
+784,Product 784,HOME,$99,99999
+785,Product 785,Home,$99,99999
+786,Product 786,Home,100 USD,99999
+787,Product 787,,,100
+788,,HOME,$99,0
+789,,HOME,-20,99999
+790,,HOME,$99,99999
+791,Product 791,Electronics,-20,99999
+792,,HOME,$99,5
+793,,electronics,$99,0
+794,Product 794,Electronics,,5
+795,,electronics,100,0
+796,,,50,0
+797,,ELEC,,99999
+798,Product 798,,100 USD,100
+799,,Home,-20,20
+800,,ELEC,-20,99999
+801,Product 801,,100 USD,5
+802,Product 802,,100 USD,20
+803,Product 803,ELEC,100,99999
+804,,Home,100 USD,-10
+805,,,100,-10
+806,,Electronics,,20
+807,,ELEC,100,100
+808,,electronics,10,0
+809,Product 809,HOME,$99,99999
+810,Product 810,electronics,100,5
+811,,Home,,0
+812,,electronics,,99999
+813,,electronics,100 USD,-10
+814,,HOME,10,0
+815,Product 815,,-20,5
+816,,ELEC,$99,5
+817,,HOME,,20
+818,Product 818,,,-10
+819,,HOME,,100
+820,,Home,50,-10
+821,,ELEC,50,99999
+822,,ELEC,,0
+823,Product 823,electronics,10,100
+824,Product 824,Electronics,,20
+825,,,$99,99999
+826,Product 826,ELEC,-20,0
+827,Product 827,electronics,50,20
+828,,,10,5
+829,Product 829,,100 USD,0
+830,Product 830,,,5
+831,,HOME,10,0
+832,,HOME,100,0
+833,,,-20,20
+834,Product 834,HOME,,5
+835,,ELEC,100,20
+836,Product 836,Home,100 USD,-10
+837,Product 837,electronics,,0
+838,Product 838,,100 USD,99999
+839,,electronics,100 USD,5
+840,,ELEC,100 USD,99999
+841,,Electronics,50,0
+842,,Home,,0
+843,Product 843,HOME,100,20
+844,,Home,10,20
+845,Product 845,HOME,50,100
+846,,Electronics,,100
+847,,Electronics,100,0
+848,Product 848,HOME,50,5
+849,Product 849,ELEC,10,5
+850,,,,5
+851,,,$99,20
+852,Product 852,Electronics,10,5
+853,Product 853,electronics,50,99999
+854,Product 854,,,0
+855,Product 855,HOME,$99,99999
+856,,electronics,100 USD,-10
+857,,HOME,10,20
+858,Product 858,Home,50,20
+859,Product 859,electronics,50,0
+860,,ELEC,,-10
+861,Product 861,Home,,0
+862,Product 862,,,0
+863,,HOME,100,5
+864,,electronics,10,0
+865,,HOME,-20,-10
+866,,ELEC,100 USD,5
+867,,HOME,10,20
+868,,electronics,100 USD,20
+869,Product 869,,100 USD,-10
+870,,ELEC,100 USD,99999
+871,Product 871,HOME,,-10
+872,,HOME,,-10
+873,Product 873,Home,-20,5
+874,Product 874,,10,-10
+875,,,,0
+876,Product 876,ELEC,100,5
+877,,Electronics,,100
+878,,Home,10,0
+879,,ELEC,10,0
+880,,,,-10
+881,,electronics,,0
+882,,ELEC,100 USD,20
+883,,electronics,100 USD,99999
+884,Product 884,,10,-10
+885,,electronics,100 USD,5
+886,,Home,50,100
+887,,electronics,100 USD,99999
+888,,HOME,50,-10
+889,,electronics,100,99999
+890,,,50,0
+891,,,100,100
+892,,Home,100 USD,99999
+893,,HOME,100 USD,0
+894,,Home,,0
+895,Product 895,Home,,-10
+896,,ELEC,100 USD,0
+897,Product 897,electronics,10,20
+898,,Home,50,20
+899,Product 899,electronics,100 USD,99999
+900,Product 900,ELEC,,99999
+901,,Home,,0
+902,,,50,0
+903,,HOME,-20,-10
+904,,Home,$99,100
+905,Product 905,HOME,50,0
+906,,,50,99999
+907,Product 907,HOME,100 USD,20
+908,,Electronics,100,0
+909,Product 909,Home,,0
+910,,Home,,-10
+911,,ELEC,100,99999
+912,Product 912,Electronics,100,100
+913,,,50,5
+914,,HOME,100,-10
+915,Product 915,HOME,,0
+916,,Electronics,100,20
+917,,,$99,-10
+918,Product 918,,-20,-10
+919,Product 919,ELEC,-20,0
+920,,,100 USD,100
+921,,HOME,,100
+922,,Electronics,,100
+923,Product 923,HOME,10,5
+924,,HOME,$99,0
+925,,electronics,50,20
+926,,electronics,50,-10
+927,,electronics,10,-10
+928,,electronics,-20,-10
+929,,HOME,$99,99999
+930,Product 930,electronics,10,0
+931,,electronics,,0
+932,,ELEC,100 USD,5
+933,Product 933,,100,100
+934,,ELEC,$99,-10
+935,Product 935,electronics,100,20
+936,Product 936,ELEC,$99,20
+937,,ELEC,100 USD,-10
+938,,Electronics,$99,100
+939,,ELEC,100 USD,5
+940,,ELEC,10,20
+941,,,100 USD,99999
+942,,ELEC,,99999
+943,,HOME,100 USD,5
+944,,Electronics,$99,20
+945,,ELEC,100,20
+946,,Electronics,50,-10
+947,Product 947,Electronics,,0
+948,,,$99,20
+949,,ELEC,100,5
+950,Product 950,HOME,50,5
+951,,,$99,20
+952,,HOME,-20,20
+953,Product 953,Home,$99,100
+954,,electronics,10,20
+955,,ELEC,,99999
+956,,Electronics,$99,20
+957,,HOME,100 USD,99999
+958,,,100,0
+959,,electronics,$99,-10
+960,Product 960,HOME,100 USD,0
+961,Product 961,,100,99999
+962,,electronics,100,0
+963,Product 963,Electronics,10,-10
+964,,,100,100
+965,Product 965,electronics,10,0
+966,,Home,100,20
+967,,electronics,100 USD,100
+968,Product 968,Electronics,10,99999
+969,,,,5
+970,Product 970,ELEC,$99,0
+971,Product 971,ELEC,-20,20
+972,Product 972,Home,100 USD,99999
+973,,ELEC,100 USD,100
+974,,ELEC,,0
+975,,Home,100 USD,100
+976,Product 976,ELEC,$99,5
+977,,HOME,50,99999
+978,,HOME,-20,5
+979,,Home,,100
+980,,,10,99999
+981,,Electronics,,100
+982,,Home,100 USD,100
+983,,Home,-20,20
+984,Product 984,Home,50,5
+985,,ELEC,100,-10
+986,,Electronics,-20,0
+987,Product 987,Electronics,-20,-10
+988,,Home,$99,100
+989,,electronics,$99,5
+990,,HOME,100 USD,100
+991,Product 991,electronics,100,20
+992,Product 992,Home,$99,5
+993,,ELEC,10,20
+994,,electronics,100 USD,-10
+995,Product 995,Home,$99,20
+996,,Home,100 USD,20
+997,Product 997,Home,100 USD,5
+998,Product 998,,50,100
+999,,Electronics,10,0
+1000,,HOME,-20,100
+1001,,,10,20
+1002,Product 1002,ELEC,100 USD,20
+1003,Product 1003,electronics,100,-10
+1004,,Electronics,-20,99999
+1005,,,100 USD,20
+1006,,HOME,100 USD,-10
+1007,,,10,99999
+1008,,Home,10,-10
+1009,,Home,100,-10
+1010,,Home,10,-10
+1011,,ELEC,,100
+1012,,ELEC,-20,0
+1013,Product 1013,Home,50,99999
+1014,Product 1014,ELEC,50,-10
+1015,,Home,50,5
+1016,,Electronics,$99,99999
+1017,Product 1017,Electronics,-20,5
+1018,,Home,100 USD,20
+1019,,Home,-20,5
+1020,,Electronics,-20,99999
+1021,Product 1021,Home,50,100
+1022,,Home,,5
+1023,,electronics,-20,20
+1024,,Home,-20,0
+1025,,Home,100 USD,100
+1026,,ELEC,100 USD,99999
+1027,,,10,100
+1028,,Electronics,50,5
+1029,,Electronics,100 USD,99999
+1030,,electronics,,5
+1031,,HOME,100 USD,20
+1032,,,-20,5
+1033,,,100,-10
+1034,Product 1034,Home,-20,20
+1035,,,50,100
+1036,Product 1036,ELEC,,-10
+1037,,Electronics,10,-10
+1038,,ELEC,100 USD,100
+1039,,Electronics,$99,5
+1040,Product 1040,HOME,100 USD,0
+1041,,Electronics,50,99999
+1042,Product 1042,,10,20
+1043,,Home,-20,0
+1044,,electronics,,5
+1045,,,10,-10
+1046,,Electronics,$99,-10
+1047,Product 1047,HOME,100 USD,100
+1048,Product 1048,Home,$99,100
+1049,,electronics,100,-10
+1050,,HOME,100,100
+1051,,HOME,10,0
+1052,Product 1052,electronics,10,-10
+1053,,Home,,20
+1054,,Home,50,-10
+1055,,,,0
+1056,,Electronics,,20
+1057,,Electronics,-20,0
+1058,,Home,100 USD,99999
+1059,,Electronics,50,0
+1060,,electronics,100,20
+1061,,ELEC,50,-10
+1062,,Electronics,100 USD,0
+1063,,HOME,,0
+1064,,HOME,10,20
+1065,,Home,100,99999
+1066,,HOME,100 USD,99999
+1067,,ELEC,$99,99999
+1068,,,,0
+1069,Product 1069,ELEC,,-10
+1070,Product 1070,HOME,-20,0
+1071,Product 1071,HOME,$99,-10
+1072,Product 1072,Home,$99,99999
+1073,Product 1073,ELEC,100 USD,20
+1074,,,100,20
+1075,,,,-10
+1076,Product 1076,ELEC,,99999
+1077,,electronics,100 USD,0
+1078,Product 1078,HOME,100 USD,-10
+1079,,electronics,-20,0
+1080,,,100,99999
+1081,,,$99,5
+1082,,ELEC,100 USD,99999
+1083,,Home,50,100
+1084,Product 1084,Electronics,100,0
+1085,Product 1085,HOME,10,100
+1086,Product 1086,Home,$99,-10
+1087,,electronics,10,100
+1088,Product 1088,electronics,,5
+1089,,ELEC,-20,-10
+1090,,electronics,-20,-10
+1091,,ELEC,-20,0
+1092,,,100 USD,0
+1093,Product 1093,ELEC,100 USD,0
+1094,,electronics,100,5
+1095,Product 1095,Home,50,-10
+1096,Product 1096,electronics,100 USD,20
+1097,,electronics,10,5
+1098,,electronics,50,20
+1099,,Electronics,,5
+1100,Product 1100,ELEC,-20,20
+1101,,electronics,,0
+1102,Product 1102,,$99,100
+1103,Product 1103,Home,$99,5
+1104,,HOME,-20,5
+1105,,,$99,100
+1106,Product 1106,electronics,100,20
+1107,,ELEC,,99999
+1108,,electronics,10,99999
+1109,Product 1109,Home,-20,99999
+1110,,,10,100
+1111,Product 1111,Electronics,,99999
+1112,,Home,10,-10
+1113,,Home,-20,20
+1114,,electronics,100 USD,20
+1115,,electronics,100,20
+1116,,Home,10,100
+1117,,,10,20
+1118,,,,100
+1119,Product 1119,electronics,-20,0
+1120,,,10,0
+1121,,,10,5
+1122,,electronics,50,0
+1123,Product 1123,electronics,10,5
+1124,,Home,50,100
+1125,,ELEC,-20,5
+1126,Product 1126,HOME,10,100
+1127,,Electronics,50,20
+1128,Product 1128,electronics,100 USD,99999
+1129,,electronics,10,100
+1130,Product 1130,HOME,100 USD,-10
+1131,,,$99,99999
+1132,Product 1132,ELEC,50,20
+1133,,ELEC,,0
+1134,,Electronics,100 USD,100
+1135,,,$99,99999
+1136,Product 1136,HOME,50,0
+1137,Product 1137,ELEC,,5
+1138,,Home,-20,-10
+1139,,HOME,-20,5
+1140,Product 1140,,100 USD,20
+1141,,Home,-20,100
+1142,,Home,$99,5
+1143,,electronics,10,0
+1144,,Home,50,100
+1145,Product 1145,electronics,$99,100
+1146,,ELEC,,100
+1147,,electronics,$99,99999
+1148,,Electronics,$99,-10
+1149,Product 1149,ELEC,100 USD,100
+1150,Product 1150,ELEC,100,99999
+1151,,ELEC,100,5
+1152,,electronics,100,99999
+1153,,HOME,-20,99999
+1154,,electronics,10,0
+1155,,ELEC,50,-10
+1156,Product 1156,ELEC,,20
+1157,,Home,,-10
+1158,,,100,99999
+1159,,HOME,$99,5
+1160,Product 1160,Electronics,$99,100
+1161,Product 1161,HOME,10,99999
+1162,,ELEC,,99999
+1163,Product 1163,HOME,50,99999
+1164,,,$99,-10
+1165,,Home,-20,100
+1166,Product 1166,Electronics,,99999
+1167,,electronics,-20,0
+1168,,HOME,50,-10
+1169,,ELEC,100,99999
+1170,,,$99,20
+1171,,electronics,100 USD,5
+1172,,,10,99999
+1173,,electronics,-20,5
+1174,,Home,,99999
+1175,Product 1175,,-20,100
+1176,,Electronics,100,100
+1177,,,,-10
+1178,Product 1178,ELEC,100 USD,99999
+1179,,ELEC,100,20
+1180,Product 1180,HOME,50,20
+1181,,electronics,100,-10
+1182,Product 1182,ELEC,$99,0
+1183,,Home,100,20
+1184,,electronics,10,99999
+1185,,HOME,50,0
+1186,,Electronics,100,-10
+1187,,Home,,-10
+1188,,HOME,100 USD,20
+1189,,Electronics,$99,20
+1190,Product 1190,Home,100,99999
+1191,,Electronics,100,0
+1192,,Home,$99,99999
+1193,,ELEC,,99999
+1194,,Electronics,10,20
+1195,,Home,50,5
+1196,,electronics,,20
+1197,,electronics,10,5
+1198,,,100 USD,99999
+1199,,HOME,100 USD,100
+1200,,electronics,100,100
+1201,,Home,-20,100
+1202,,electronics,-20,0
+1203,Product 1203,electronics,,0
+1204,Product 1204,,100 USD,99999
+1205,Product 1205,ELEC,100,-10
+1206,,Electronics,100,20
+1207,,HOME,$99,-10
+1208,,ELEC,100 USD,99999
+1209,Product 1209,HOME,100 USD,20
+1210,Product 1210,HOME,$99,100
+1211,,electronics,100 USD,5
+1212,,,-20,5
+1213,,HOME,100 USD,0
+1214,,electronics,50,100
+1215,Product 1215,Electronics,100,-10
+1216,,Electronics,50,5
+1217,Product 1217,,$99,-10
+1218,Product 1218,ELEC,-20,99999
+1219,Product 1219,electronics,-20,5
+1220,Product 1220,ELEC,50,99999
+1221,,ELEC,$99,99999
+1222,,,10,0
+1223,,electronics,100,-10
+1224,,,$99,99999
+1225,,Electronics,$99,20
+1226,Product 1226,Electronics,100,99999
+1227,,Home,-20,0
+1228,,electronics,10,99999
+1229,,HOME,50,-10
+1230,Product 1230,HOME,,100
+1231,Product 1231,,100 USD,100
+1232,,Home,,0
+1233,Product 1233,HOME,100 USD,-10
+1234,Product 1234,HOME,50,-10
+1235,Product 1235,,100 USD,20
+1236,,,100,0
+1237,Product 1237,Home,100 USD,99999
+1238,Product 1238,,$99,5
+1239,,,$99,99999
+1240,,,$99,100
+1241,,,100 USD,5
+1242,,,100,0
+1243,,ELEC,,-10
+1244,,electronics,,0
+1245,,HOME,,20
+1246,,ELEC,$99,5
+1247,,Home,-20,100
+1248,,ELEC,-20,100
+1249,,electronics,,-10
+1250,,Home,$99,-10
+1251,Product 1251,ELEC,100,99999
+1252,Product 1252,HOME,,5
+1253,,ELEC,,0
+1254,Product 1254,,50,100
+1255,Product 1255,electronics,,5
+1256,,,100,0
+1257,,Electronics,$99,99999
+1258,,ELEC,100,-10
+1259,,Electronics,,5
+1260,Product 1260,HOME,100,5
+1261,,electronics,100,-10
+1262,,Electronics,$99,5
+1263,Product 1263,ELEC,-20,99999
+1264,,Home,,20
+1265,,ELEC,100 USD,-10
+1266,Product 1266,HOME,-20,0
+1267,Product 1267,Electronics,,20
+1268,Product 1268,,$99,100
+1269,Product 1269,Electronics,10,-10
+1270,Product 1270,Home,50,20
+1271,,ELEC,50,0
+1272,,,,5
+1273,Product 1273,ELEC,-20,5
+1274,,ELEC,50,100
+1275,,electronics,,-10
+1276,Product 1276,,10,100
+1277,,ELEC,100,20
+1278,,,100 USD,100
+1279,,Electronics,50,100
+1280,Product 1280,Home,10,0
+1281,Product 1281,HOME,100,99999
+1282,,Home,,20
+1283,Product 1283,HOME,$99,99999
+1284,Product 1284,ELEC,,99999
+1285,,HOME,100,99999
+1286,Product 1286,Home,10,0
+1287,,,,0
+1288,,,$99,20
+1289,,,-20,-10
+1290,Product 1290,,10,99999
+1291,,Home,,-10
+1292,Product 1292,HOME,$99,100
+1293,,HOME,,0
+1294,,HOME,$99,0
+1295,,,-20,5
+1296,Product 1296,HOME,50,100
+1297,,ELEC,10,-10
+1298,,Home,10,-10
+1299,,Home,10,20
+1300,,electronics,,0
+1301,Product 1301,Electronics,,0
+1302,,Home,100 USD,0
+1303,,ELEC,10,100
+1304,,ELEC,-20,-10
+1305,,HOME,10,0
+1306,Product 1306,Home,10,-10
+1307,,Electronics,100,100
+1308,Product 1308,HOME,10,0
+1309,Product 1309,Home,100 USD,20
+1310,Product 1310,electronics,-20,-10
+1311,Product 1311,Home,100 USD,100
+1312,Product 1312,electronics,10,99999
+1313,,Home,10,0
+1314,Product 1314,Home,100 USD,0
+1315,,ELEC,-20,99999
+1316,,electronics,$99,5
+1317,,Home,$99,5
+1318,Product 1318,Home,50,0
+1319,Product 1319,electronics,100,5
+1320,Product 1320,ELEC,100 USD,-10
+1321,,Home,50,0
+1322,Product 1322,,$99,-10
+1323,,electronics,$99,0
+1324,Product 1324,HOME,10,5
+1325,Product 1325,HOME,-20,99999
+1326,,HOME,100,5
+1327,,HOME,10,5
+1328,,ELEC,$99,5
+1329,,Home,50,100
+1330,,ELEC,-20,-10
+1331,,,$99,5
+1332,,ELEC,100 USD,-10
+1333,Product 1333,HOME,$99,100
+1334,,Electronics,100 USD,5
+1335,Product 1335,HOME,10,100
+1336,Product 1336,electronics,,5
+1337,,HOME,50,99999
+1338,Product 1338,HOME,50,99999
+1339,,Home,100,20
+1340,Product 1340,electronics,$99,100
+1341,Product 1341,ELEC,100,20
+1342,,Electronics,,20
+1343,,ELEC,-20,20
+1344,,electronics,50,20
+1345,Product 1345,electronics,-20,-10
+1346,Product 1346,Home,10,5
+1347,,,100,-10
+1348,,Electronics,100,99999
+1349,Product 1349,Electronics,100 USD,100
+1350,Product 1350,Home,,-10
+1351,,HOME,$99,100
+1352,,ELEC,100 USD,5
+1353,,Home,10,0
+1354,,ELEC,,20
+1355,,Home,$99,20
+1356,Product 1356,Home,,20
+1357,Product 1357,Home,50,100
+1358,Product 1358,electronics,-20,99999
+1359,,ELEC,50,100
+1360,Product 1360,ELEC,100,20
+1361,,Home,100 USD,0
+1362,Product 1362,electronics,-20,-10
+1363,,Electronics,100,99999
+1364,,electronics,-20,-10
+1365,Product 1365,Electronics,10,-10
+1366,Product 1366,electronics,100,99999
+1367,,ELEC,50,20
+1368,,Electronics,50,-10
+1369,,Electronics,$99,-10
+1370,,electronics,$99,99999
+1371,,Home,10,100
+1372,,ELEC,10,0
+1373,Product 1373,Home,100,-10
+1374,,Home,,100
+1375,,electronics,-20,5
+1376,,Home,$99,5
+1377,,Home,10,0
+1378,,,$99,99999
+1379,,,50,0
+1380,,Electronics,100,99999
+1381,,Home,$99,20
+1382,Product 1382,ELEC,10,99999
+1383,,ELEC,,0
+1384,,HOME,100,-10
+1385,Product 1385,Home,,0
+1386,Product 1386,ELEC,-20,99999
+1387,Product 1387,Home,10,100
+1388,Product 1388,Electronics,100 USD,20
+1389,Product 1389,Electronics,,-10
+1390,Product 1390,Home,,0
+1391,,,100,5
+1392,,electronics,$99,0
+1393,,Home,100 USD,20
+1394,Product 1394,HOME,$99,-10
+1395,,ELEC,-20,-10
+1396,,ELEC,100 USD,5
+1397,Product 1397,,100 USD,0
+1398,,,,20
+1399,,,10,100
+1400,,electronics,100 USD,5
+1401,,,$99,-10
+1402,Product 1402,HOME,$99,5
+1403,,Home,10,0
+1404,,Home,100,0
+1405,,HOME,-20,-10
+1406,Product 1406,HOME,100 USD,99999
+1407,,,100,100
+1408,Product 1408,HOME,100 USD,-10
+1409,,Home,,5
+1410,,,50,0
+1411,,Home,100,99999
+1412,,Home,,-10
+1413,,,10,100
+1414,,HOME,100,0
+1415,,electronics,,0
+1416,Product 1416,,,-10
+1417,Product 1417,electronics,50,0
+1418,,ELEC,-20,5
+1419,Product 1419,Home,100 USD,100
+1420,,electronics,$99,-10
+1421,Product 1421,Home,,0
+1422,,,100,99999
+1423,Product 1423,,,0
+1424,Product 1424,HOME,100 USD,99999
+1425,,electronics,$99,100
+1426,Product 1426,,,-10
+1427,,Electronics,50,100
+1428,,HOME,,99999
+1429,,electronics,,-10
+1430,Product 1430,electronics,10,20
+1431,Product 1431,,50,5
+1432,,Home,100,99999
+1433,,Electronics,100 USD,100
+1434,,electronics,$99,99999
+1435,,electronics,100,100
+1436,,electronics,-20,5
+1437,,HOME,10,5
+1438,Product 1438,Electronics,100,99999
+1439,Product 1439,electronics,,20
+1440,Product 1440,Home,10,0
+1441,Product 1441,,10,-10
+1442,,Electronics,50,5
+1443,Product 1443,Home,50,-10
+1444,,HOME,100 USD,0
+1445,Product 1445,,50,5
+1446,Product 1446,electronics,100,99999
+1447,Product 1447,,,99999
+1448,,ELEC,50,0
+1449,Product 1449,Electronics,10,100
+1450,,ELEC,100,5
+1451,Product 1451,,100,99999
+1452,Product 1452,Electronics,$99,-10
+1453,Product 1453,Electronics,$99,99999
+1454,,Home,10,20
+1455,,Electronics,$99,20
+1456,,Electronics,10,99999
+1457,Product 1457,ELEC,10,99999
+1458,,ELEC,10,5
+1459,Product 1459,,,20
+1460,Product 1460,Electronics,10,5
+1461,,Home,,20
+1462,Product 1462,HOME,50,100
+1463,,Electronics,50,-10
+1464,Product 1464,HOME,-20,5
+1465,,Electronics,-20,-10
+1466,,Electronics,100,-10
+1467,Product 1467,Home,10,-10
+1468,Product 1468,Electronics,100,20
+1469,Product 1469,ELEC,10,20
+1470,,,$99,-10
+1471,Product 1471,Home,100,100
+1472,Product 1472,Electronics,$99,20
+1473,,electronics,,20
+1474,,,50,20
+1475,,Electronics,,5
+1476,,ELEC,50,100
+1477,,electronics,100,100
+1478,,HOME,100 USD,0
+1479,,electronics,,5
+1480,,electronics,100 USD,99999
+1481,,ELEC,-20,20
+1482,Product 1482,HOME,,0
+1483,,HOME,50,20
+1484,,Home,50,99999
+1485,,ELEC,,0
+1486,,,100 USD,20
+1487,,ELEC,$99,-10
+1488,Product 1488,Electronics,$99,20
+1489,,Home,-20,0
+1490,,Electronics,-20,100
+1491,,Home,-20,100
+1492,Product 1492,Home,10,0
+1493,,Home,10,0
+1494,,electronics,,0
+1495,Product 1495,Electronics,-20,5
+1496,,,100,5
+1497,,Home,$99,5
+1498,,Electronics,100,-10
+1499,,HOME,10,0
+1500,,Home,,99999
+1501,,Home,10,100
+1502,,Electronics,10,-10
+1503,,electronics,100,99999
+1504,,ELEC,100,0
+1505,,Home,100,-10
+1506,Product 1506,ELEC,100,20
+1507,Product 1507,HOME,100,20
+1508,,,$99,5
+1509,,Home,50,100
+1510,Product 1510,HOME,100,0
+1511,,,$99,0
+1512,,electronics,$99,5
+1513,Product 1513,ELEC,100 USD,-10
+1514,,ELEC,10,20
+1515,,electronics,$99,99999
+1516,,electronics,-20,100
+1517,,,-20,0
+1518,Product 1518,ELEC,$99,-10
+1519,,,-20,0
+1520,,Electronics,10,0
+1521,Product 1521,Electronics,10,5
+1522,,,-20,-10
+1523,,Electronics,,-10
+1524,,,$99,100
+1525,,,$99,99999
+1526,,electronics,$99,5
+1527,Product 1527,HOME,10,100
+1528,,electronics,,20
+1529,,ELEC,10,0
+1530,,,10,100
+1531,Product 1531,,100,0
+1532,,ELEC,-20,99999
+1533,,,-20,0
+1534,,Electronics,-20,-10
+1535,,Electronics,,5
+1536,,,100,99999
+1537,Product 1537,HOME,$99,-10
+1538,,electronics,-20,99999
+1539,,ELEC,10,100
+1540,,Electronics,100,0
+1541,,Electronics,50,20
+1542,Product 1542,Home,100 USD,0
+1543,,Home,50,5
+1544,,HOME,100 USD,100
+1545,Product 1545,Electronics,$99,0
+1546,,electronics,,5
+1547,Product 1547,Electronics,100 USD,-10
+1548,Product 1548,ELEC,10,-10
+1549,,ELEC,-20,0
+1550,,HOME,100,99999
+1551,,Electronics,50,5
+1552,Product 1552,electronics,,100
+1553,,ELEC,100 USD,20
+1554,,Electronics,,20
+1555,,ELEC,10,5
+1556,,Electronics,100,99999
+1557,,Electronics,10,100
+1558,,HOME,$99,5
+1559,,electronics,-20,-10
+1560,Product 1560,Electronics,10,5
+1561,Product 1561,electronics,100 USD,0
+1562,,electronics,-20,5
+1563,Product 1563,Home,100 USD,99999
+1564,,,-20,-10
+1565,,,,100
+1566,,,-20,0
+1567,,HOME,-20,-10
+1568,,electronics,100,0
+1569,Product 1569,Home,,-10
+1570,,electronics,-20,20
+1571,,Home,,99999
+1572,,,$99,20
+1573,,,50,99999
+1574,Product 1574,Electronics,100 USD,20
+1575,Product 1575,Electronics,10,99999
+1576,,Electronics,,100
+1577,,electronics,10,5
+1578,,Home,10,-10
+1579,Product 1579,HOME,100 USD,5
+1580,,Home,-20,99999
+1581,Product 1581,Home,-20,20
+1582,,HOME,10,-10
+1583,,electronics,,100
+1584,,Electronics,-20,0
+1585,,,-20,0
+1586,Product 1586,ELEC,100,99999
+1587,Product 1587,Home,100,-10
+1588,,HOME,50,-10
+1589,Product 1589,,-20,-10
+1590,Product 1590,Home,100,0
+1591,,electronics,100,99999
+1592,,ELEC,50,20
+1593,Product 1593,electronics,$99,-10
+1594,,,,20
+1595,,HOME,10,0
+1596,,Home,-20,0
+1597,,ELEC,,100
+1598,,,100 USD,5
+1599,,Home,$99,0
+1600,Product 1600,,$99,0
+1601,,Home,,-10
+1602,Product 1602,electronics,10,0
+1603,,,50,-10
+1604,,,-20,20
+1605,,electronics,-20,0
+1606,Product 1606,Electronics,50,100
+1607,,HOME,50,-10
+1608,,Home,100 USD,5
+1609,Product 1609,ELEC,$99,100
+1610,,Electronics,$99,99999
+1611,Product 1611,ELEC,,-10
+1612,,Home,100 USD,99999
+1613,,Electronics,10,5
+1614,Product 1614,Electronics,100 USD,-10
+1615,,Home,50,20
+1616,,electronics,10,0
+1617,,Home,10,-10
+1618,Product 1618,Home,100,5
+1619,Product 1619,Home,10,99999
+1620,Product 1620,Home,$99,20
+1621,,Home,,100
+1622,,Home,100,-10
+1623,,Electronics,100,5
+1624,,,,-10
+1625,Product 1625,,10,5
+1626,,ELEC,$99,100
+1627,Product 1627,Home,100,20
+1628,,Home,10,5
+1629,Product 1629,,50,20
+1630,,HOME,100 USD,100
+1631,,,100,0
+1632,,ELEC,-20,99999
+1633,,electronics,10,99999
+1634,Product 1634,Electronics,100 USD,-10
+1635,Product 1635,electronics,$99,100
+1636,,electronics,,-10
+1637,,Electronics,50,-10
+1638,Product 1638,HOME,-20,100
+1639,,,50,5
+1640,Product 1640,Home,,0
+1641,,Electronics,50,20
+1642,Product 1642,,100 USD,5
+1643,Product 1643,Home,-20,-10
+1644,,ELEC,,-10
+1645,,HOME,50,100
+1646,,electronics,-20,100
+1647,,ELEC,100,100
+1648,Product 1648,electronics,100,20
+1649,,Electronics,$99,20
+1650,,ELEC,$99,100
+1651,,ELEC,-20,5
+1652,,,-20,0
+1653,,Electronics,100 USD,5
+1654,,Electronics,-20,100
+1655,Product 1655,Home,10,100
+1656,,HOME,,20
+1657,,ELEC,50,99999
+1658,,electronics,$99,100
+1659,Product 1659,electronics,100,100
+1660,Product 1660,Electronics,100,5
+1661,,,100 USD,20
+1662,,,100 USD,20
+1663,,Electronics,50,0
+1664,Product 1664,Home,50,0
+1665,,HOME,10,-10
+1666,Product 1666,Home,,-10
+1667,Product 1667,ELEC,50,5
+1668,,,$99,100
+1669,,Home,-20,99999
+1670,,ELEC,50,5
+1671,,HOME,$99,-10
+1672,Product 1672,HOME,10,-10
+1673,,,100,-10
+1674,,Electronics,100,-10
+1675,,ELEC,10,-10
+1676,,,100,-10
+1677,Product 1677,ELEC,-20,20
+1678,,Electronics,10,-10
+1679,,Electronics,,5
+1680,,ELEC,-20,100
+1681,Product 1681,,10,100
+1682,Product 1682,Home,$99,5
+1683,,ELEC,-20,5
+1684,,Electronics,10,99999
+1685,,electronics,-20,0
+1686,,Home,50,0
+1687,,ELEC,10,-10
+1688,Product 1688,electronics,-20,0
+1689,,electronics,100,0
+1690,,ELEC,-20,20
+1691,,HOME,100,-10
+1692,Product 1692,Electronics,-20,20
+1693,Product 1693,ELEC,10,99999
+1694,Product 1694,Electronics,-20,20
+1695,,Electronics,100,-10
+1696,,electronics,100,100
+1697,,Electronics,100,0
+1698,Product 1698,Home,-20,0
+1699,Product 1699,,100,5
+1700,Product 1700,HOME,-20,-10
+1701,Product 1701,,$99,5
+1702,,electronics,$99,0
+1703,Product 1703,electronics,$99,99999
+1704,Product 1704,,10,99999
+1705,,Home,100,99999
+1706,Product 1706,Electronics,,100
+1707,,electronics,,5
+1708,,electronics,$99,99999
+1709,,ELEC,50,5
+1710,Product 1710,,-20,100
+1711,Product 1711,,100 USD,5
+1712,,Home,-20,5
+1713,,ELEC,100,5
+1714,,Home,50,5
+1715,Product 1715,Home,100,100
+1716,Product 1716,HOME,,5
+1717,,electronics,50,20
+1718,,electronics,50,99999
+1719,,Electronics,,99999
+1720,,electronics,50,5
+1721,Product 1721,,-20,20
+1722,,Electronics,-20,99999
+1723,,HOME,50,20
+1724,,ELEC,100 USD,0
+1725,,electronics,10,-10
+1726,,,10,99999
+1727,,Electronics,100 USD,99999
+1728,,,50,20
+1729,,,50,20
+1730,Product 1730,electronics,$99,100
+1731,Product 1731,ELEC,,-10
+1732,,ELEC,50,5
+1733,,,$99,5
+1734,Product 1734,Electronics,,-10
+1735,Product 1735,HOME,-20,20
+1736,,HOME,10,0
+1737,,electronics,$99,5
+1738,,Home,-20,-10
+1739,,Electronics,100,20
+1740,,ELEC,,99999
+1741,,ELEC,100,20
+1742,,ELEC,50,-10
+1743,,Home,50,100
+1744,Product 1744,Home,$99,5
+1745,Product 1745,electronics,50,20
+1746,,electronics,50,100
+1747,,ELEC,100,99999
+1748,,,100 USD,5
+1749,,HOME,100,0
+1750,Product 1750,HOME,50,0
+1751,Product 1751,Home,100,5
+1752,Product 1752,electronics,,100
+1753,,ELEC,-20,99999
+1754,,HOME,-20,100
+1755,,Home,10,20
+1756,,Electronics,,100
+1757,Product 1757,ELEC,$99,99999
+1758,Product 1758,,$99,5
+1759,Product 1759,electronics,50,20
+1760,,electronics,,99999
+1761,,ELEC,100,0
+1762,Product 1762,electronics,100,-10
+1763,,Electronics,,0
+1764,,,50,99999
+1765,,Electronics,10,5
+1766,,electronics,,99999
+1767,Product 1767,Electronics,100 USD,99999
+1768,,electronics,50,0
+1769,Product 1769,Home,50,-10
+1770,Product 1770,electronics,100 USD,100
+1771,Product 1771,Home,$99,100
+1772,,HOME,100 USD,99999
+1773,,Home,-20,5
+1774,Product 1774,Home,10,-10
+1775,,Home,,20
+1776,,HOME,-20,5
+1777,,,$99,-10
+1778,,ELEC,-20,-10
+1779,Product 1779,HOME,50,-10
+1780,,ELEC,$99,0
+1781,Product 1781,Electronics,50,-10
+1782,,ELEC,$99,99999
+1783,Product 1783,HOME,,5
+1784,,Electronics,,-10
+1785,Product 1785,electronics,-20,20
+1786,Product 1786,electronics,$99,99999
+1787,,HOME,100,-10
+1788,,Home,50,99999
+1789,,electronics,10,99999
+1790,Product 1790,electronics,100 USD,0
+1791,,ELEC,,5
+1792,Product 1792,electronics,50,-10
+1793,,Home,,-10
+1794,Product 1794,Electronics,100 USD,-10
+1795,,Home,100,99999
+1796,Product 1796,Electronics,100,0
+1797,,Home,100,99999
+1798,,ELEC,-20,20
+1799,,electronics,50,-10
+1800,,ELEC,$99,100
+1801,,electronics,-20,-10
+1802,Product 1802,Electronics,$99,0
+1803,Product 1803,ELEC,-20,0
+1804,Product 1804,electronics,50,100
+1805,Product 1805,,10,-10
+1806,,HOME,100,99999
+1807,Product 1807,HOME,10,5
+1808,,ELEC,$99,100
+1809,Product 1809,Electronics,,0
+1810,,electronics,$99,-10
+1811,,,100 USD,-10
+1812,Product 1812,Electronics,,5
+1813,,,10,20
+1814,,ELEC,50,-10
+1815,Product 1815,electronics,100 USD,100
+1816,Product 1816,Home,10,0
+1817,Product 1817,,$99,100
+1818,Product 1818,,,-10
+1819,,,50,99999
+1820,,electronics,10,5
+1821,,,10,0
+1822,Product 1822,ELEC,,0
+1823,Product 1823,Home,10,99999
+1824,,Home,,-10
+1825,,HOME,-20,99999
+1826,Product 1826,ELEC,100 USD,99999
+1827,Product 1827,,10,-10
+1828,,,,100
+1829,,Home,,100
+1830,,electronics,10,0
+1831,Product 1831,HOME,100,20
+1832,Product 1832,Electronics,$99,99999
+1833,,,100,5
+1834,Product 1834,electronics,-20,20
+1835,,electronics,50,100
+1836,Product 1836,ELEC,,100
+1837,,electronics,100 USD,99999
+1838,,Electronics,-20,100
+1839,Product 1839,electronics,50,5
+1840,,ELEC,10,-10
+1841,,ELEC,100,20
+1842,,electronics,10,100
+1843,,ELEC,100 USD,-10
+1844,Product 1844,Home,10,0
+1845,,Electronics,-20,99999
+1846,,Home,100 USD,99999
+1847,,electronics,100 USD,0
+1848,,electronics,-20,5
+1849,Product 1849,,100,100
+1850,,HOME,100,-10
+1851,Product 1851,Home,50,-10
+1852,Product 1852,Home,,0
+1853,Product 1853,electronics,,-10
+1854,,HOME,$99,0
+1855,Product 1855,electronics,$99,20
+1856,,HOME,$99,5
+1857,Product 1857,,50,5
+1858,,ELEC,$99,100
+1859,Product 1859,electronics,100,5
+1860,,electronics,50,20
+1861,Product 1861,electronics,-20,20
+1862,Product 1862,Electronics,10,20
+1863,,ELEC,,5
+1864,Product 1864,Electronics,100,100
+1865,,ELEC,,100
+1866,,Home,10,99999
+1867,,Electronics,100 USD,99999
+1868,Product 1868,ELEC,10,100
+1869,,electronics,100,5
+1870,Product 1870,Electronics,$99,20
+1871,Product 1871,HOME,$99,-10
+1872,,electronics,100 USD,-10
+1873,Product 1873,electronics,100 USD,0
+1874,,HOME,-20,20
+1875,,Home,$99,0
+1876,Product 1876,Home,100 USD,99999
+1877,,Home,100,99999
+1878,,ELEC,10,99999
+1879,,Electronics,-20,100
+1880,,,100 USD,100
+1881,Product 1881,electronics,100,100
+1882,,Home,100 USD,-10
+1883,,,$99,100
+1884,,Home,100,100
+1885,,electronics,-20,20
+1886,,,100 USD,0
+1887,Product 1887,HOME,50,100
+1888,,,100,100
+1889,,ELEC,100 USD,-10
+1890,Product 1890,ELEC,100 USD,20
+1891,,Home,-20,5
+1892,,ELEC,,100
+1893,,HOME,50,0
+1894,Product 1894,Electronics,50,100
+1895,,Home,$99,5
+1896,,electronics,100 USD,99999
+1897,,HOME,10,5
+1898,,electronics,100 USD,20
+1899,Product 1899,Electronics,100,100
+1900,,ELEC,50,20
+1901,Product 1901,Electronics,100 USD,100
+1902,,Electronics,100,100
+1903,Product 1903,Home,,100
+1904,,HOME,$99,5
+1905,Product 1905,Electronics,50,99999
+1906,,Electronics,50,0
+1907,,electronics,50,0
+1908,,Home,$99,0
+1909,,Electronics,100 USD,0
+1910,Product 1910,Electronics,,20
+1911,Product 1911,electronics,50,-10
+1912,,ELEC,10,-10
+1913,,ELEC,100,20
+1914,Product 1914,Home,,5
+1915,,Electronics,$99,0
+1916,Product 1916,Home,50,0
+1917,,HOME,100,20
+1918,,,$99,0
+1919,,Home,-20,99999
+1920,,ELEC,100 USD,100
+1921,Product 1921,,$99,99999
+1922,Product 1922,,,99999
+1923,,ELEC,10,100
+1924,,Electronics,50,100
+1925,,ELEC,-20,5
+1926,,Electronics,100,5
+1927,,Electronics,,20
+1928,Product 1928,ELEC,50,5
+1929,,Home,-20,-10
+1930,,Electronics,,0
+1931,Product 1931,HOME,$99,20
+1932,,ELEC,10,100
+1933,,HOME,50,20
+1934,,Home,-20,5
+1935,,electronics,$99,99999
+1936,Product 1936,electronics,50,20
+1937,,,50,99999
+1938,Product 1938,Home,10,100
+1939,Product 1939,Electronics,50,100
+1940,,Electronics,50,99999
+1941,Product 1941,,-20,0
+1942,,electronics,-20,5
+1943,,Home,,-10
+1944,Product 1944,electronics,10,100
+1945,,,-20,100
+1946,Product 1946,Home,100 USD,-10
+1947,Product 1947,ELEC,-20,99999
+1948,,Electronics,10,20
+1949,,HOME,,5
+1950,,Electronics,$99,-10
+1951,,HOME,50,20
+1952,,HOME,100 USD,-10
+1953,Product 1953,,100 USD,100
+1954,Product 1954,ELEC,$99,0
+1955,Product 1955,HOME,-20,-10
+1956,,HOME,50,100
+1957,,electronics,50,20
+1958,,ELEC,-20,20
+1959,Product 1959,HOME,100,99999
+1960,,,,0
+1961,,,$99,0
+1962,,Home,10,5
+1963,,electronics,100,0
+1964,,,10,99999
+1965,,Electronics,-20,-10
+1966,Product 1966,Electronics,50,5
+1967,Product 1967,Home,50,20
+1968,,electronics,$99,0
+1969,,,50,5
+1970,Product 1970,,,100
+1971,,ELEC,100,20
+1972,,Electronics,-20,20
+1973,,ELEC,-20,0
+1974,,electronics,100 USD,-10
+1975,,HOME,10,20
+1976,,Electronics,100,100
+1977,,ELEC,100 USD,0
+1978,,Home,100 USD,-10
+1979,,HOME,10,100
+1980,,,$99,99999
+1981,Product 1981,Home,10,99999
+1982,,HOME,10,5
+1983,,Home,,0
+1984,,Electronics,50,99999
+1985,,HOME,100 USD,5
+1986,Product 1986,ELEC,$99,-10
+1987,,Home,10,20
+1988,,Electronics,-20,100
+1989,,HOME,-20,20
+1990,Product 1990,Electronics,,99999
+1991,,Electronics,50,0
+1992,,HOME,100 USD,100
+1993,,Home,,99999
+1994,,ELEC,,99999
+1995,,Electronics,100 USD,20
+1996,,HOME,-20,99999
+1997,Product 1997,Electronics,-20,20
+1998,,Electronics,50,20
+1999,,Home,50,20
+2000,,HOME,100,0

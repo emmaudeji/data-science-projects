@@ -1,0 +1,5 @@
+enter the project path 
+
+python -m venv .venv
+.venv\Scripts\activate
+pip install pandas numpy matplotlib jupyter seaborn
